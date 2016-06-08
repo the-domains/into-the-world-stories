@@ -1,14 +1,14 @@
-layout_spectrum: 0.2846977226436138
-typography_spectrum: 0.8625615059863776
+layout_spectrum: 0.6376645001582801
+typography_spectrum: 0.07504100957885385
 color:
-  brandStrength: 0.833686268189922
-  lightness: 0.47325400938279927
-  saturation: 0.951079155318439
-  rhythmicContrast: 0.8332949597388506
+  brandStrength: 0.9206447843462229
+  lightness: 0.14249484753236175
+  saturation: 0.2861867044121027
+  rhythmicContrast: 0.8391670419368893
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: INTO THE WORLD STORIES
