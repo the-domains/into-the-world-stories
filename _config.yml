@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.0609319
 color:
   saturation: 0.5483871
@@ -22,5 +10,25 @@ color:
     - '#636B6D'
     - '#A29990'
   rhythmicContrast: 0.469534
+opengraph:
+  type: video.movie
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e941ef5a-25dc-46c6-b511-e7b6897cd0d1.jpg'
 layout_spectrum: 0.6182796
+author:
+  email: intotheworld@sostudiosfilm.com
+  url: 'https://www.sostudiosfilm.com'
+  name: SO STUDIOS
 name: INTO THE WORLD STORIES
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: 'Into the World, SO Studios, Shunsuke Okubo, Film, Stories'
