@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-09T08:18:18.727Z'
+datePublished: '2016-06-09T08:18:21.177Z'
 sourcePath: _posts/2016-06-09-light-and-shadows.md
 isBasedOnUrl: 'https://www.instagram.com/p/7O6Z3ym1TX/?tagged=itwfilm'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: catewnek
     url: 'https://www.instagram.com/catewnek'
     avatar: {}
-dateModified: '2016-06-09T08:18:18.266Z'
+dateModified: '2016-06-09T08:18:20.893Z'
 title: Light and shadows
 app_links:
   - url: 'instagram://media?id=1067047026322789591'
@@ -32,7 +32,7 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
