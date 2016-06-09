@@ -1,14 +1,14 @@
 ---
 description: INTO THE WORLD - The story about the boys who do not want to grow up.
-dateModified: '2016-06-09T05:55:24.727Z'
-datePublished: '2016-06-09T05:55:25.359Z'
+dateModified: '2016-06-09T05:55:29.119Z'
+datePublished: '2016-06-09T05:55:29.618Z'
 title: INTO THE WORLD
 author:
   - name: INTO THE WORLD Film
     url: 'https://www.instagram.com/itwfilm/'
 isBasedOnUrl: 'https://www.instagram.com/p/BFOPVK4kTOL/'
 sourcePath: _posts/2016-06-09-into-the-world.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
