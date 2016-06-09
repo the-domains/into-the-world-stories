@@ -2,16 +2,16 @@
 description: >-
   "Every child has a favourite place known only to himself/herself. That is
   their own LITTLE world, No one can go in there - even parents and friends. In
-  there they feel the wind, based in light, and listen the music." - Shunsuke
+  there they feel the wind, based in light, and listen the music."- Shunsuke
   Okubo, dir.-writer.
-dateModified: '2016-06-09T04:55:22.148Z'
-datePublished: '2016-06-09T04:55:22.937Z'
+dateModified: '2016-06-09T04:59:56.060Z'
+datePublished: '2016-06-09T04:59:56.607Z'
 title: INTO THE WORLD<br>THE STORY ABOUT THE BOYS WHO DO NOT WANT TO GROW UP.
 author:
   - {}
 isBasedOnUrl: 'https://www.sostudiosfilm.com/into-the-world/'
 sourcePath: _posts/2016-06-09-into-the-world.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
