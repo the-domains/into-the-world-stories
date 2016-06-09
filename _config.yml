@@ -12,7 +12,7 @@ collections:
       path: '/:title/'
 typography_spectrum: 0.0609319
 color:
-  saturation: 1
+  saturation: 0.8566308
   brandStrength: 0.007168459
   lightness: 1
   brandColors:
@@ -21,6 +21,6 @@ color:
     - '#1C3843'
     - '#696F6F'
     - '#A49A91'
-  rhythmicContrast: 0.5412186
-layout_spectrum: 0.6182796
+  rhythmicContrast: 0.5
+layout_spectrum: 0.6308244
 name: INTO THE WORLD STORIES
