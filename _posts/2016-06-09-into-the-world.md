@@ -2,14 +2,14 @@
 description: >-
   HAVE YOU EVER TRIED TO RUN AWAY FROM GROWING UP?INTO THE WORLD IS THE STORY
   ABOUT THE BOYS WHO DO NOT WANT TO GROW UP. FROM DIRECTOR SHUNSUKE OKUBO.
-dateModified: '2016-06-09T04:35:31.138Z'
-datePublished: '2016-06-09T04:35:31.640Z'
+dateModified: '2016-06-09T04:35:46.248Z'
+datePublished: '2016-06-09T04:35:46.898Z'
 title: INTO THE WORLD
 author:
   - {}
 isBasedOnUrl: 'https://www.sostudiosfilm.com/into-the-world/'
 sourcePath: _posts/2016-06-09-into-the-world.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
