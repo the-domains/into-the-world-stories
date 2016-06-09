@@ -10,10 +10,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.0609319
 color:
   saturation: 0.3243728
-  brandStrength: 0.4928315
+  brandStrength: 0.2831541
   lightness: 1
   brandColors:
     - '#130F0E'
@@ -22,5 +21,6 @@ color:
     - '#696F6F'
     - '#A49A91'
   rhythmicContrast: 0.2544803
+typography_spectrum: 0.0609319
 layout_spectrum: 0.6182796
 name: INTO THE WORLD STORIES
