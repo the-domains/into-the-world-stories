@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-09T00:53:05.054Z'
+datePublished: '2016-06-09T01:22:53.424Z'
 isBasedOnUrl: 'https://www.instagram.com/p/BGVJ9rJkTK7/'
 keywords: []
 related: []
@@ -7,7 +7,7 @@ author:
   - name: itwfilm
     url: 'https://www.instagram.com/itwfilm'
     avatar: {}
-dateModified: '2016-06-09T00:53:02.577Z'
+dateModified: '2016-06-09T01:22:52.973Z'
 title: 'Share your #itwstories!'
 app_links:
   - url: 'instagram://media?id=1266962690812752571'
@@ -35,8 +35,8 @@ description: >-
   their own LITTLE world, No one can go in there - even parents and friends. In
   there they feel the wind, based in light, and listen the music." - Shunsuke
   Okubo, dir.-writer.
-starred: false
 sourcePath: _posts/2016-06-09-share-your-itwstories.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
