@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.0609319
 color:
   saturation: 1
   brandStrength: 1
@@ -20,7 +21,6 @@ color:
     - '#FFFFFF'
     - '#636B6D'
     - '#A29990'
-  rhythmicContrast: 0.311828
-typography_spectrum: 0.0609319
+  rhythmicContrast: 0.7419355
 layout_spectrum: 1
 name: INTO THE WORLD STORIES
