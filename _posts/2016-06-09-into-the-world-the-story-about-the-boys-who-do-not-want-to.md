@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-09T01:26:43.315Z'
+datePublished: '2016-06-09T01:26:44.736Z'
 isBasedOnUrl: 'https://www.instagram.com/p/BFOPVK4kTOL/'
 keywords: []
 related: []
@@ -7,7 +7,7 @@ author:
   - name: itwfilm
     url: 'https://www.instagram.com/itwfilm'
     avatar: {}
-dateModified: '2016-06-09T01:26:42.882Z'
+dateModified: '2016-06-09T01:26:44.340Z'
 title: INTO THE WORLD - the story about the boys who do not want to grow up.
 app_links:
   - url: 'instagram://media?id=1247001572321342347'
@@ -33,7 +33,7 @@ publisher:
 description: ''
 sourcePath: >-
   _posts/2016-06-09-into-the-world-the-story-about-the-boys-who-do-not-want-to.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
