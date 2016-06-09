@@ -4,8 +4,15 @@
         <description><![CDATA[INTO THE WORLD STORIES]]></description>
         <link>https://thegrid.ai/into-the-world-stories/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 01:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 01:27:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/into-the-world-stories/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[INTO THE WORLD]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b55a9dde-afc1-424c-9554-3f892fed83b3.jpg">]]></description>
+            <link>https://www.sostudiosfilm.com/into-the-world</link>
+            <guid isPermaLink="false">cf29dedb-de41-403c-8b2b-727371180434</guid>
+            <pubDate>Thu, 09 Jun 2016 01:27:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Share your #itwstories!]]></title>
             <description><![CDATA[<article><h1>Share your #itwstories!</h1><p>"Every child has a favourite place known only to himself/herself. That is their own LITTLE world, No one can go in there - even parents and friends. In there they feel the wind, based in light, and listen the music." - Shunsuke Okubo, dir.-writer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93aa1849169730228ab1a882feea0ed7d6c2ac9c.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.instagram.com/p/BFOPVK4kTOL/</link>
             <guid isPermaLink="false">9dabf708-3bf8-426e-b285-4e5d793d06ec</guid>
             <pubDate>Thu, 09 Jun 2016 01:26:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[INTO THE WORLD]]></title>
-            <description><![CDATA[<article><h1>INTO THE WORLD</h1><p>THE STORY ABOUT THE BOYS WHO DO NOT WANT TO GROW UP</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a1f9b02-1f9c-4d4e-b5cd-0885caf91e4b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/into-the-world-stories/7ad4a909-f31e-4667-857f-833b7707fdde/index.html</link>
-            <guid isPermaLink="false">7ad4a909-f31e-4667-857f-833b7707fdde</guid>
-            <pubDate>Thu, 09 Jun 2016 01:26:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
