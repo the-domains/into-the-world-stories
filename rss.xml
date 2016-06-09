@@ -4,7 +4,7 @@
         <description><![CDATA[INTO THE WORLD STORIES]]></description>
         <link>http://itwstories.sostudiosfilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 05:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 05:14:42 GMT</lastBuildDate>
         <atom:link href="http://itwstories.sostudiosfilm.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[INTO THE WORLD<br>THE STORY ABOUT THE BOYS WHO DO NOT WANT TO GROW UP.]]></title>
@@ -19,6 +19,13 @@
             <link>http://itwstories.sostudiosfilm.com/share-your-itwstories/index.html</link>
             <guid isPermaLink="false">1d6d3dfd-585f-44f5-98a5-d657455979a8</guid>
             <pubDate>Thu, 09 Jun 2016 04:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ella and Daisy]]></title>
+            <description><![CDATA[<article><h1>Ella and Daisy</h1><p> </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc7f8fc24a844204ea6e64a2219db3f16a26b6b8.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BCyDsqGh4To/?tagged=itwstories</link>
+            <guid isPermaLink="false">c388adfb-839a-497d-a570-a083a10d2d15</guid>
+            <pubDate>Thu, 09 Jun 2016 05:14:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["De sol, espiga y secretos...allí donde me recreo. " "About sun, spike, and secrets... there is the place where I play"]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BE9GU8fh4dT/?tagged=itwstories</link>
             <guid isPermaLink="false">517c44e7-5457-48b4-8131-71143320d0a0</guid>
             <pubDate>Thu, 09 Jun 2016 05:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calm after the storm]]></title>
-            <description><![CDATA[<article><h1>Calm after the storm</h1><p> </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ff21571e2fe006d60e06df10d8e70df75a31a1c.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BGLswGbB4eb/?tagged=itwstories</link>
-            <guid isPermaLink="false">b56729f3-778f-49df-b063-49f2a4c2dc1e</guid>
-            <pubDate>Thu, 09 Jun 2016 05:00:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
