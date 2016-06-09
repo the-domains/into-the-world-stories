@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-09T08:18:50.758Z'
+datePublished: '2016-06-09T08:18:53.593Z'
 sourcePath: >-
   _posts/2016-06-09-doing-the-dishes-and-listening-to-the-sweetest-giggles-going.md
 isBasedOnUrl: 'https://www.instagram.com/p/BGYH37wOSsu/?tagged=itwstories'
@@ -9,7 +9,7 @@ author:
   - name: adelecoelho
     url: 'https://www.instagram.com/adelecoelho'
     avatar: {}
-dateModified: '2016-06-09T08:18:50.291Z'
+dateModified: '2016-06-09T08:18:53.337Z'
 title: >-
   Doing the dishes and listening to the sweetest giggles going on in the in the
   yard. Theses are the time i want to hold onto forever
@@ -35,7 +35,7 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '  '
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
