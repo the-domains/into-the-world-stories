@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-09T05:14:36.829Z'
+datePublished: '2016-06-14T01:33:12.348Z'
+sourcePath: _posts/2016-06-09-ella-and-daisy.md
 isBasedOnUrl: 'https://www.instagram.com/p/BCyDsqGh4To/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-06-09T05:13:08.643Z'
+dateModified: '2016-06-14T01:33:11.469Z'
 title: Ella and Daisy
 app_links:
   - url: 'instagram://media?id=1203040313464554728'
@@ -31,8 +32,7 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
-starred: false
-sourcePath: _posts/2016-06-09-ella-and-daisy.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -40,4 +40,4 @@ _context: 'http://schema.org'
 _type: Photograph
 
 ---
-![ ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc7f8fc24a844204ea6e64a2219db3f16a26b6b8.jpg)
+![ ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd1c128388b5d561c5cabc52186cf72122bf63b2.jpg)
