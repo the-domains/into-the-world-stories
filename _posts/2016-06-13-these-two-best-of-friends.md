@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-14T01:20:34.873Z'
+datePublished: '2016-06-14T01:20:37.112Z'
 sourcePath: _posts/2016-06-13-these-two-best-of-friends.md
 isBasedOnUrl: 'https://www.instagram.com/p/BGlbN7KOSk7/?tagged=itwstories'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: adelecoelho
     url: 'https://www.instagram.com/adelecoelho'
     avatar: {}
-dateModified: '2016-06-14T01:20:33.746Z'
+dateModified: '2016-06-14T01:20:36.607Z'
 title: These two best of friends.
 app_links:
   - url: 'instagram://media?id=1271542173933316411'
@@ -32,7 +32,7 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
