@@ -4,12 +4,14 @@ description: >-
   favourite place known only to himself/herself. That is their own LITTLE world,
   No one can go in there - even parents and friends. In there they feel the
   wind, based in light, and listen the music." - Shunsuke Okubo, dir.-writer.
-dateModified: '2016-06-10T05:15:11.793Z'
-datePublished: '2016-06-10T05:15:14.796Z'
+dateModified: '2016-06-16T08:48:05.004Z'
+datePublished: '2016-06-16T08:48:09.906Z'
 title: >-
   INTO THE WORLD<br><font size="10px !important;">THE STORY ABOUT THE BOYS WHO
   DO NOT WANT TO GROW UP</font>
-author: []
+author:
+  - name: Background paintings by Elicia Edijanto
+    url: 'http://www.eliciaedijanto.com'
 isBasedOnUrl: 'http://itwstories.sostudiosfilm.com'
 sourcePath: >-
   _posts/2016-06-09-into-the-worldlessbrgreaterlessfont-size10pxgreaterthe-story-about-the-boys.md
