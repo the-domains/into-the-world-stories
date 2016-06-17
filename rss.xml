@@ -4,7 +4,7 @@
         <description><![CDATA[INTO THE WORLD STORIES]]></description>
         <link>http://itwstories.sostudiosfilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 23:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 23:43:27 GMT</lastBuildDate>
         <atom:link href="http://itwstories.sostudiosfilm.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[INTO THE WORLD<br><font size="10px !important;">THE STORY ABOUT THE BOYS WHO DO NOT WANT TO GROW UP</font>]]></title>
@@ -19,6 +19,13 @@
             <link>http://itwstories.sostudiosfilm.com/share-your-itwstories/index.html</link>
             <guid isPermaLink="false">1d6d3dfd-585f-44f5-98a5-d657455979a8</guid>
             <pubDate>Thu, 09 Jun 2016 06:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ella and Daisy]]></title>
+            <description><![CDATA[<article><h1>Ella and Daisy</h1><p> </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd1c128388b5d561c5cabc52186cf72122bf63b2.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BCyDsqGh4To/?tagged=itwstories</link>
+            <guid isPermaLink="false">c388adfb-839a-497d-a570-a083a10d2d15</guid>
+            <pubDate>Fri, 17 Jun 2016 23:43:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Big&Small]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BGr1ADkxcy7/?tagged=itwstories</link>
             <guid isPermaLink="false">9eec7e9f-ca2a-4b9a-9a7c-139f609606a3</guid>
             <pubDate>Thu, 16 Jun 2016 04:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ella and Daisy]]></title>
-            <description><![CDATA[<article><h1>Ella and Daisy</h1><p> </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd1c128388b5d561c5cabc52186cf72122bf63b2.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BCyDsqGh4To/?tagged=itwstories</link>
-            <guid isPermaLink="false">c388adfb-839a-497d-a570-a083a10d2d15</guid>
-            <pubDate>Tue, 14 Jun 2016 01:59:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
