@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-14T01:59:08.866Z'
+datePublished: '2016-06-17T23:43:24.404Z'
 sourcePath: _posts/2016-06-09-ella-and-daisy.md
 isBasedOnUrl: 'https://www.instagram.com/p/BCyDsqGh4To/?tagged=itwstories'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-06-14T01:59:05.765Z'
+dateModified: '2016-06-17T23:43:12.414Z'
 title: Ella and Daisy
 app_links:
   - url: 'instagram://media?id=1203040313464554728'
