@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-21T11:00:21.973Z'
+datePublished: '2016-06-21T11:08:37.620Z'
+sourcePath: _posts/2016-06-21-bienvenido-verano-bienvenida-libertad-welcome-summer-welc.md
 isBasedOnUrl: 'https://www.instagram.com/p/BG6WC3LtlzA/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: about_yellow_dragons
     url: 'https://www.instagram.com/about_yellow_dragons'
     avatar: {}
-dateModified: '2016-06-21T11:00:19.035Z'
+dateModified: '2016-06-21T11:08:35.536Z'
 title: Bienvenido verano. Bienvenida libertad. Welcome summer. Welcome freedom.
 app_links:
   - url: 'instagram://media?id=1277430398027455680'
@@ -30,13 +31,8 @@ publisher:
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
-description: >-
-  Bienvenido verano. Bienvenida libertad. Welcome summer. Welcome freedom
-  #summer #freedom #inseparableshc #hellocreatividad #impulsatucreatividad
-  #conmiradademadre #itwstories #siblinghoodlove #candidchildhood
-  #childhoodunplugged #letthekids #shamoftheperfect
+description: ' '
 starred: false
-sourcePath: _posts/2016-06-21-bienvenido-verano-bienvenida-libertad-welcome-summer-welc.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -44,4 +40,4 @@ _context: 'http://schema.org'
 _type: Photograph
 
 ---
-![Bienvenido verano. Bienvenida libertad. Welcome summer. Welcome freedom #summer #freedom #inseparableshc #hellocreatividad #impulsatucreatividad #conmiradademadre #itwstories #siblinghoodlove #candidchildhood #childhoodunplugged #letthekids #shamoftheperfect](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13423074_1059909310769775_558847743_n.jpg?ig_cache_key=MTI3NzQzMDM5ODAyNzQ1NTY4MA%3D%3D.2)
+![ ](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0c2abca282d0bc708535692cf62f673b/croprotate.jpg?cropheight=421&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13423074_1059909310769775_558847743_n.jpg%3Fig_cache_key%3DMTI3NzQzMDM5ODAyNzQ1NTY4MA%253D%253D.2&x=0&y=111)
