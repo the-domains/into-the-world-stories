@@ -4,11 +4,9 @@ description: >-
   favourite place known only to himself/herself. That is their own LITTLE world,
   No one can go in there - even parents and friends. In there they feel the
   wind, based in light, and listen the music." - Shunsuke Okubo, dir.-writer.
-dateModified: '2016-06-23T01:52:42.329Z'
-datePublished: '2016-06-23T01:52:45.912Z'
-title: >-
-  INTO THE WORLD<br><font size="10px !important;">THE STORY ABOUT THE BOYS WHO
-  DO NOT WANT TO GROW UP</font>
+dateModified: '2016-06-29T06:37:02.436Z'
+datePublished: '2016-06-29T06:37:06.489Z'
+title: 'INTO THE WORLD '
 author:
   - name: Background paintings by Elicia Edijanto
     url: 'http://www.eliciaedijanto.com'
@@ -22,4 +20,4 @@ inNav: false
 _type: MediaObject
 
 ---
-![Have you ever tried to run away from growing up? <br><br>"Every child has a favourite place known only to himself/herself. That is their own LITTLE world, No one can go in there - even parents and friends. In there they feel the wind, based in light, and listen the music." - Shunsuke Okubo, dir.-writer. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99db2d44-9164-425a-a20b-11d3e93e8d11.jpg)
+![THE STORY ABOUT THE BOYS WHO DO NOT WANT TO GROW UP. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99db2d44-9164-425a-a20b-11d3e93e8d11.jpg)
