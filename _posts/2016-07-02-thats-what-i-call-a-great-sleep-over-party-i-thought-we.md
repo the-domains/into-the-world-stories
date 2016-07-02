@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-02T15:56:03.776Z'
+datePublished: '2016-07-02T18:33:49.583Z'
 sourcePath: _posts/2016-07-02-thats-what-i-call-a-great-sleep-over-party-i-thought-we.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHWm3gKDZdw/?tagged=itwstories'
 keywords: []
@@ -8,8 +8,8 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-07-02T15:55:52.767Z'
-title: "That's what I call a great sleep over party!!! I thought we parents had a fun night out, but the kids seem to have had even more party \uD83D\uDE02\uD83D\uDE02\uD83D\uDE02 "
+dateModified: '2016-07-02T18:33:33.465Z'
+title: "That's what I call a great sleep over party!!! I thought we parents had a fun night out, but the kids seem to have had even more party \uD83D\uDE02\uD83D\uDE02\uD83D\uDE02"
 app_links:
   - url: 'instagram://media?id=1285385683527898992'
     type: ios
