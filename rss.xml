@@ -4,7 +4,7 @@
         <description><![CDATA[INTO THE WORLD STORIES]]></description>
         <link>http://itwstories.sostudiosfilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 05:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 05:53:17 GMT</lastBuildDate>
         <atom:link href="http://itwstories.sostudiosfilm.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[INTO THE WORLD <br>THE STORY ABOUT THE BOYS WHO DO NOT WANT TO GROW UP. ]]></title>
@@ -19,6 +19,13 @@
             <link>http://itwstories.sostudiosfilm.com/share-your-itwstories/index.html</link>
             <guid isPermaLink="false">1d6d3dfd-585f-44f5-98a5-d657455979a8</guid>
             <pubDate>Thu, 09 Jun 2016 06:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Splash ]]></title>
+            <description><![CDATA[<article><h1>Splash </h1><p> </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/30c2f59cf5e719b7613afcfc06f18882/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13562060_510235929165270_2118816382_n.jpg%3Fig_cache_key%3DMTI4NzkxMDI1NjU4MDMyMzkzNw%253D%253D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BHfk44CDWph/?tagged=itwstories</link>
+            <guid isPermaLink="false">15d7f0ed-1f14-433e-9d68-7d3e3e599ba2</guid>
+            <pubDate>Wed, 06 Jul 2016 05:53:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[🌊 ]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BHcx96tjraL/?tagged=itwstories</link>
             <guid isPermaLink="false">6f89a916-432f-4a4c-9969-29f036384ddc</guid>
             <pubDate>Mon, 04 Jul 2016 19:19:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🌊  ]]></title>
-            <description><![CDATA[<article><h1>🌊  </h1><p>   </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3a1937019067750358239860c6e59c34/croprotate.jpg?cropheight=433&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13556757_263375950698753_818474736_n.jpg%3Fig_cache_key%3DMTI4NzExOTE2MzAzODgwNjg2MA%253D%253D.2&x=0&y=104"></article>]]></description>
-            <link>https://www.instagram.com/p/BHcxA8whrNM/?tagged=itwstories</link>
-            <guid isPermaLink="false">bce7467d-b840-4912-afe0-4386bc23b568</guid>
-            <pubDate>Mon, 04 Jul 2016 19:18:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
