@@ -31,10 +31,6 @@ navigation:
     url: 'https://www.sostudiosfilm.com/into-the-world'
     name: INTO THE WORLD OFFICIAL WEBSITE
     type: external
-  - id: e6d8fc3f-6914-4515-ba25-10f1c0042464
-    url: 2016-07-11-sparkles-featured-sparkles.html
-    name: ✨ FEATURED ✨
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb19d8c-75b4-4dd1-8e04-bd554812d630.ico
 collections:
