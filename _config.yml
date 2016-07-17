@@ -25,7 +25,7 @@ name: INTO THE WORLD STORIES
 navigation:
   - id: 'https://www.sostudiosfilm.com'
     url: 'https://www.sostudiosfilm.com'
-    name: SO STUDIOS OFFICIAL WEBSITE
+    name: SO STUDIOS
     type: external
   - id: 'https://www.sostudiosfilm.com/into-the-world'
     url: 'https://www.sostudiosfilm.com/into-the-world'
