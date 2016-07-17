@@ -22,6 +22,11 @@ author:
   email: info@sostudiosfilm.com
   url: 'https://www.sostudiosfilm.com'
 name: INTO THE WORLD STORIES
+navigation:
+  - id: 'https://www.sostudiosfilm.com'
+    url: 'https://www.sostudiosfilm.com'
+    name: SO STUDIOS Official Site
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb19d8c-75b4-4dd1-8e04-bd554812d630.ico
 collections:
