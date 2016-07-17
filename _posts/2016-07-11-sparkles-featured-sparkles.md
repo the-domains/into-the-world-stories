@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-17T08:12:28.248Z'
+datePublished: '2016-07-17T08:17:09.716Z'
 sourcePath: _posts/2016-07-11-sparkles-featured-sparkles.md
 hasPage: true
 author:
   - name: esiphotography.es
     url: 'https://www.instagram.com/esiphotography.es'
     avatar: {}
-dateModified: '2016-07-17T08:12:27.644Z'
+dateModified: '2016-07-17T08:16:51.652Z'
 title: ✨ FEATURED ✨
 description: " 2nd featured story is from <a href=https://instagram.com/esiphotography.es>@esiphotography.es</a>: \"\uD83C\uDF38\"<br><br>\"It’s a fairly well-known fact that our sense of SMELL is deeply linked to memory. Smells can trigger some of our most vivid memories, and is most linked to our emotional recollection. She expressed the story with just one emoji \uD83C\uDF38. I think this is a story about MEMORY. What's the smell that represents your (amazing) childhood? imagine it. When you smell [Insert your smell here], you are instantly teleported to when you were a child. and you will remember that there's magic everywhere.\" - @ShunsukeOkubo (dir./writer) <br><br>Thank you for sharing your story <a href=https://instagram.com/esiphotography.es>@esiphotography.es</a> and Congratulations!<br> . . . <br>Does your child have a story in their own LITTLE WORLD?? Share the story with us, and tag a friend! Use <a href=https://www.instagram.com/explore/tags/itwstories/>#itwstories</a> for a feature."
 inNav: true
