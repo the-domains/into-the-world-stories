@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-17T10:34:16.844Z'
+datePublished: '2016-07-17T10:35:48.348Z'
 sourcePath: _posts/2016-07-11-sparkles-featured-sparkles.md
 inFeed: true
 hasPage: true
@@ -7,13 +7,13 @@ author:
   - name: esiphotography.es
     url: 'https://www.instagram.com/esiphotography.es'
     avatar: {}
-dateModified: '2016-07-17T10:34:06.292Z'
+dateModified: '2016-07-17T10:35:39.904Z'
 title: FEATURED STORIES
 description: >-
   Does your child have a story in their own LITTLE WORLD?? Share the story with
   us, and tag a friend! Use <a
   href=https://www.instagram.com/explore/tags/itwstories/>#itwstories</a> for a
-  feature.<br> <br><br>
+  feature.<br> <br>
 inNav: true
 starred: true
 url: featured-stories/index.html
@@ -27,10 +27,10 @@ _type: Article
 ### Here's some amazing stories in their own LITTLE WORLD. The stories picked up by our director & writer <a href=https://www.sostudiosfilm.com/team/shunsuke-okubo\>Shunsuke Okubo</a\>
 
 Does your child have a story in their own LITTLE WORLD?? Share the story with us, and tag a friend! Use <a href=https://www.instagram.com/explore/tags/itwstories/\>\#itwstories</a\> for a feature.<br\>  
-<br\><br\>
+<br\>
 
 ## 🌸
-![Second featured story is from <a href=https://instagram.com/esiphotography.es>@esiphotography.es</a>: ""<br><br>"It’s a fairly well-known fact that our sense of SMELL is deeply linked to memory. Smells can trigger some of our most vivid memories, and is most linked to our emotional recollection. She expressed the story with just one emoji . I think this is a story about MEMORY. What's the smell that represents your (amazing) childhood? imagine it. When you smell [Insert your smell here], you are instantly teleported to when you were a child. and you will remember that there's magic everywhere." - @ShunsukeOkubo (dir./writer) <br><br>Thank you for sharing your story <a href=https://instagram.com/esiphotography.es>@esiphotography.es</a> and Congratulations!<br> . . . <br>Does your child have a story in their own LITTLE WORLD?? Share the story with us, and tag a friend! Use <a href=https://www.instagram.com/explore/tags/itwstories/>#itwstories</a> for a feature.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0027b45d31882d34d6576906b28776f18c78542.jpg)
+![ ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0027b45d31882d34d6576906b28776f18c78542.jpg)
 
 Second featured story is from <a href=https://instagram.com/esiphotography.es\>@esiphotography.es</a\>: "🌸"<br\><br\>"It's a fairly well-known fact that our sense of SMELL is deeply linked to memory. Smells can trigger some of our most vivid memories, and is most linked to our emotional recollection. She expressed the story with just one emoji 🌸. I think this is a story about MEMORY. What's the smell that represents your (amazing) childhood? imagine it. When you smell \[Insert your smell here\], you are instantly teleported to when you were a child. and you will remember that there's magic everywhere." - @ShunsukeOkubo (dir./writer) <br\><br\>Thank you for sharing your story <a href=https://instagram.com/esiphotography.es\>@esiphotography.es</a\> and Congratulations!<br\>  
 <br\>
