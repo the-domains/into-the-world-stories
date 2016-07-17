@@ -1,26 +1,26 @@
 ---
-datePublished: '2016-07-17T10:26:53.970Z'
+datePublished: '2016-07-17T10:28:26.654Z'
 sourcePath: _posts/2016-07-11-sparkles-featured-sparkles.md
 inFeed: true
-hasPage: true
+isBasedOnUrl: 'https://www.instagram.com/p/BG6Cwtxxc-D/'
+hasPage: false
 author:
   - name: esiphotography.es
     url: 'https://www.instagram.com/esiphotography.es'
     avatar: {}
-dateModified: '2016-07-17T10:26:43.027Z'
+dateModified: '2016-07-17T10:28:18.217Z'
 title: FEATURED STORIES
 description: >-
   Does your child have a story in their own LITTLE WORLD?? Share the story with
   us, and tag a friend! Use <a
   href=https://www.instagram.com/explore/tags/itwstories/>#itwstories</a> for a
   feature.<br> <br><br>
-inNav: true
+inNav: false
 starred: true
-url: sparkles-featured-sparkles/index.html
-_type: Article
+_type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/651413e7-3704-4c10-bb59-f311cb2cf5c3.jpg)
+![ ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/651413e7-3704-4c10-bb59-f311cb2cf5c3.jpg)
 
 # FEATURED STORIES
 
