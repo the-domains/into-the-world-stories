@@ -4,7 +4,7 @@
         <description><![CDATA[INTO THE WORLD STORIES]]></description>
         <link>http://itwstories.sostudiosfilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 18:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 18:18:40 GMT</lastBuildDate>
         <atom:link href="http://itwstories.sostudiosfilm.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FEATURED STORIES]]></title>
@@ -19,6 +19,13 @@
             <link>http://itwstories.sostudiosfilm.com</link>
             <guid isPermaLink="false">51211fc7-6d0c-448b-b4d5-893a51f3e3ae</guid>
             <pubDate>Sun, 10 Jul 2016 12:28:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[💚]]></title>
+            <description><![CDATA[<article><h1>💚</h1><p> </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b884d664445d5f2198f80165d5f1a3f8/croprotate.jpg?cropheight=445&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13707428_280083315686600_846524155_n.jpg%3Fig_cache_key%3DMTMwMjk3MDc0MDczOTc2MTcxNQ%253D%253D.2&x=0&y=100"></article>]]></description>
+            <link>https://www.instagram.com/p/BIVFPw6hWYz/</link>
+            <guid isPermaLink="false">abfd0553-c636-40cb-91de-0e5e6c7ba1c7</guid>
+            <pubDate>Tue, 26 Jul 2016 18:18:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pequeños exploradores. Small explorers. ]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BIRkKT0jHMB/</link>
             <guid isPermaLink="false">b1bbf157-3618-4f0c-b051-782362409160</guid>
             <pubDate>Mon, 25 Jul 2016 09:27:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[up ]]></title>
-            <description><![CDATA[<article><h1>up </h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cee6388b8e114213a37cfc2a5826bbd8/croprotate.jpg?cropheight=435&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13643126_611877648989535_552801349_n.jpg%3Fig_cache_key%3DMTMwMjAyNDc4Mjk3NTgyNDA5OQ%253D%253D.2&x=0&y=104"></article>]]></description>
-            <link>https://www.instagram.com/p/BIRuKRGB3Dj/</link>
-            <guid isPermaLink="false">2e254ad6-1f40-43b4-928d-c3041c245d21</guid>
-            <pubDate>Mon, 25 Jul 2016 09:26:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
