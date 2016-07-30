@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T00:38:07.670Z'
+datePublished: '2016-07-30T00:41:33.251Z'
 sourcePath: _posts/2016-07-11-sparkles-featured-sparkles.md
 inFeed: true
 hasPage: true
@@ -8,8 +8,8 @@ author:
     url: 'https://www.instagram.com/esiphotography.es'
     avatar: {}
 via: {}
-dateModified: '2016-07-30T00:38:06.547Z'
-title: FEATURED STORIES
+dateModified: '2016-07-30T00:41:31.609Z'
+title: "\uD83C\uDF38"
 publisher:
   url: 'https://www.sostudiosfilm.com'
   name: SO STUDIOS
@@ -26,9 +26,8 @@ _type: Article
 ---
 ![   ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/651413e7-3704-4c10-bb59-f311cb2cf5c3.jpg)
 
-## FEATURED STORIES
-
-### Here's some amazing stories in their own LITTLE WORLD. The stories are picked up by our director & writer <a href=https://www.sostudiosfilm.com/team/shunsuke-okubo\>Shunsuke Okubo</a\>
+### **FEATURED STORIES**  
+Here's some amazing stories in their own LITTLE WORLD. The stories are picked up by our director & writer <a href=https://www.sostudiosfilm.com/team/shunsuke-okubo\>Shunsuke Okubo</a\>
 
 Does your child have a story in their own LITTLE WORLD?? Share the story with us, and tag a friend! Use <a href=https://www.instagram.com/explore/tags/itwstories/\>\#itwstories</a\> for a feature.<br\>  
 <br\>
