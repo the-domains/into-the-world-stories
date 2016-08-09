@@ -4,7 +4,7 @@
         <description><![CDATA[INTO THE WORLD STORIES]]></description>
         <link>http://itwstories.sostudiosfilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 15:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 22:36:04 GMT</lastBuildDate>
         <atom:link href="http://itwstories.sostudiosfilm.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FEATURED STORIES]]></title>
@@ -19,6 +19,13 @@
             <link>http://itwstories.sostudiosfilm.com</link>
             <guid isPermaLink="false">51211fc7-6d0c-448b-b4d5-893a51f3e3ae</guid>
             <pubDate>Sun, 10 Jul 2016 12:28:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bugs]]></title>
+            <description><![CDATA[<article><h1>Bugs</h1><p> </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/648a86c8e35ed4836541682b0c159868/croprotate.jpg?cropheight=477&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13743528_1558402384468290_237701955_n.jpg%3Fig_cache_key%3DMTMxMzI0NDAzNDk5MDg2MDIwMw%253D%253D.2&x=0&y=83"></article>]]></description>
+            <link>https://www.instagram.com/p/BI5lH3xB-er/?tagged=itwstories</link>
+            <guid isPermaLink="false">b5d49056-0ccd-488f-bffe-023380dd0a99</guid>
+            <pubDate>Tue, 09 Aug 2016 22:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mornings.]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BIvJN4Xhua1/</link>
             <guid isPermaLink="false">a1d11287-9b55-46d4-9bed-be619c087691</guid>
             <pubDate>Sat, 06 Aug 2016 04:42:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enjoy. ]]></title>
-            <description><![CDATA[<article><h1>Enjoy. </h1><p> </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc98c94c8c8606a4b5a553f9c2cd9786/croprotate.jpg?cropheight=495&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13736937_1098450490221693_537546186_n.jpg%3Fig_cache_key%3DMTMxMDAyODcyMzcyMjIwNzgxOQ%253D%253D.2&x=0&y=73"></article>]]></description>
-            <link>https://www.instagram.com/p/BIuKC7zBUJL/</link>
-            <guid isPermaLink="false">f0a29b2b-7e37-4767-92a9-2ac1f5a4236d</guid>
-            <pubDate>Fri, 05 Aug 2016 16:30:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
