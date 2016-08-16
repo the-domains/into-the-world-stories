@@ -4,7 +4,7 @@
         <description><![CDATA[INTO THE WORLD STORIES]]></description>
         <link>http://itwstories.sostudiosfilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 00:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 00:23:39 GMT</lastBuildDate>
         <atom:link href="http://itwstories.sostudiosfilm.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FEATURED STORIES]]></title>
@@ -19,6 +19,13 @@
             <link>http://itwstories.sostudiosfilm.com</link>
             <guid isPermaLink="false">51211fc7-6d0c-448b-b4d5-893a51f3e3ae</guid>
             <pubDate>Sun, 10 Jul 2016 12:28:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Risas cristalinas. Crystalline laughter. ]]></title>
+            <description><![CDATA[<article><h1>Risas cristalinas. Crystalline laughter. </h1><p> </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f55ce9def7da6bc4e60aa54f484802b4/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F14031609_1414566778559671_435448014_n.jpg%3Fig_cache_key%3DMTMxNzY4ODY0NTMxNDE4NDMzOA%253D%253D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BJJXtdshISS/?tagged=itwstories</link>
+            <guid isPermaLink="false">5a630569-5f5f-4510-b056-fd0efa1650e5</guid>
+            <pubDate>Tue, 16 Aug 2016 00:23:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[🏔]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BJBAwxujlX_/?tagged=itwstories</link>
             <guid isPermaLink="false">d3b095b0-ffee-4bb2-8d90-332002136a92</guid>
             <pubDate>Sat, 13 Aug 2016 07:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🌲🌲✨🌲🌲]]></title>
-            <description><![CDATA[<article><h1>🌲🌲✨🌲🌲</h1><p> </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa2ce45bc2ff1f52b96a2a3dd22ec6ab/croprotate.jpg?cropheight=450&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13725678_276858602694830_927374825_n.jpg%3Fig_cache_key%3DMTMxNTAzMjk0NzU5MDIyMTAzNQ%253D%253D.2&x=0&y=95"></article>]]></description>
-            <link>https://www.instagram.com/p/BI_73-dDMzr/</link>
-            <guid isPermaLink="false">ce34c4b0-cbc0-49dc-bf8f-736048340cdf</guid>
-            <pubDate>Fri, 12 Aug 2016 16:12:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
