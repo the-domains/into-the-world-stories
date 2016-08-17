@@ -4,7 +4,7 @@
         <description><![CDATA[INTO THE WORLD STORIES]]></description>
         <link>http://itwstories.sostudiosfilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 03:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 10:00:00 GMT</lastBuildDate>
         <atom:link href="http://itwstories.sostudiosfilm.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FEATURED STORIES]]></title>
@@ -19,6 +19,13 @@
             <link>http://itwstories.sostudiosfilm.com</link>
             <guid isPermaLink="false">51211fc7-6d0c-448b-b4d5-893a51f3e3ae</guid>
             <pubDate>Sun, 10 Jul 2016 12:28:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caminos diferentes. Different paths.  ]]></title>
+            <description><![CDATA[<article><h1>Caminos diferentes. Different paths.  </h1><p> </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3a1d0ca2caaee74fbba777d6f2413a0c/croprotate.jpg?cropheight=438&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13671951_504664063063662_190794118_n.jpg%3Fig_cache_key%3DMTMxODY5MjQ5NTI4NjQzNjExMg%253D%253D.2&x=0&y=103"></article>]]></description>
+            <link>https://www.instagram.com/p/BJM79Z1hYEQ/?tagged=itwstories</link>
+            <guid isPermaLink="false">b7eb661a-6043-4d9a-87b2-b654ec9cee7e</guid>
+            <pubDate>Wed, 17 Aug 2016 09:59:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fly ]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BJDj6fbD2FX/?tagged=itwstories</link>
             <guid isPermaLink="false">62dd072a-732d-431a-9429-e6e120babd4a</guid>
             <pubDate>Sun, 14 Aug 2016 09:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I got you, baby. ]]></title>
-            <description><![CDATA[<article><h1>I got you, baby. </h1><p> </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/13e8416f89187cd882cd640b5d3e6d8f/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13743241_310716795943352_695663953_n.jpg%3Fig_cache_key%3DMTMxNjE0NDMxMzM0Mzk1OTk0Mw%253D%253D.2"></article>]]></description>
-            <link>https://www.instagram.com/p/BJD4keeBGOH/?tagged=itwstories</link>
-            <guid isPermaLink="false">d3c2fdd0-43ee-42e4-9f3e-5da7209e9f3e</guid>
-            <pubDate>Sun, 14 Aug 2016 09:08:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
