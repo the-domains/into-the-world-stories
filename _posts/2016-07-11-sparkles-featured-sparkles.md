@@ -1,5 +1,10 @@
 ---
-id: 02981f28-2246-4346-9312-a927e2de147c
+datePublished: '2016-08-18T12:57:19.626Z'
+sourcePath: _posts/2016-07-11-sparkles-featured-sparkles.md
+inFeed: true
+hasPage: true
+author: []
+via: {}
 metadata:
   id: 02981f28-2246-4346-9312-a927e2de147c
   metadata:
@@ -25,27 +30,20 @@ metadata:
       style=text-decoration:none>Shunsuke Okubo</a>
     inNav: true
   dateModified: '2016-08-18T12:40:25.722Z'
-dateModified: '2016-08-18T12:53:56.414Z'
+dateModified: '2016-08-18T12:57:17.880Z'
 title: FEATURED STORIES
-datePublished: '2016-08-18T12:54:02.371Z'
-author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/651413e7-3704-4c10-bb59-f311cb2cf5c3.jpg
-sourcePath: _posts/2016-07-11-sparkles-featured-sparkles.md
+id: 02981f28-2246-4346-9312-a927e2de147c
+publisher:
+  url: 'https://www.sostudiosfilm.com'
+  name: SO STUDIOS
 description: >-
   Here’s some amazing stories in their own LITTLE WORLD. The stories are picked
   up by our director & writer <a
   href=https://www.sostudiosfilm.com/team/shunsuke-okubo
   style=text-decoration:none>Shunsuke Okubo</a>
-publisher:
-  url: 'https://www.sostudiosfilm.com'
-  name: SO STUDIOS
-via: {}
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: featured-stories/index.html
+_type: Article
 
 ---
 ![   ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/651413e7-3704-4c10-bb59-f311cb2cf5c3.jpg)
