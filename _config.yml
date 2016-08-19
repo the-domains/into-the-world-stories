@@ -33,14 +33,14 @@ analytics:
   google: UA-37252801-8
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb19d8c-75b4-4dd1-8e04-bd554812d630.ico
-name: INTO THE WORLD STORIES
 author:
   name: SO STUDIOS
   email: info@sostudiosfilm.com
   url: 'https://www.sostudiosfilm.com'
+name: INTO THE WORLD STORIES
 opengraph:
   type: video.movie
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/20012ee6-e2e3-4c86-904a-55ee184081c1.jpg
 typography_spectrum: 0.0609319
-layout_spectrum: 0.6433692
+layout_spectrum: 0.672043
