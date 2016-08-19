@@ -1,48 +1,46 @@
-typography_spectrum: 0.0609319
-color:
-  saturation: 0.8566308
-  brandStrength: 0.007168459
-  lightness: 1
-  brandColors:
-    - '#130F0E'
-    - '#FBF9FC'
-    - '#1C3843'
-    - '#696F6F'
-    - '#A49A91'
-  rhythmicContrast: 0.5
-opengraph:
-  type: video.movie
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/20012ee6-e2e3-4c86-904a-55ee184081c1.jpg
-layout_spectrum: 0.6308244
-analytics:
-  google: UA-37252801-8
-author:
-  name: SO STUDIOS
-  email: info@sostudiosfilm.com
-  url: 'https://www.sostudiosfilm.com'
-name: INTO THE WORLD STORIES
-navigation:
-  - id: 'https://www.sostudiosfilm.com/into-the-world'
-    url: 'https://www.sostudiosfilm.com/into-the-world'
-    name: OFFICIAL SITE
-    type: external
-  - id: 'https://www.sostudiosfilm.com'
-    url: 'https://www.sostudiosfilm.com'
-    name: SO STUDIOS
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb19d8c-75b4-4dd1-8e04-bd554812d630.ico
+title: ''
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: ''
+color:
+  saturation: 0.8566308
+  brandStrength: 0.007168459
+  rhythmicContrast: 0.5
+  brandColors:
+    - '#130F0E'
+    - '#FBF9FC'
+    - '#1C3843'
+    - '#696F6F'
+    - '#A49A91'
+  lightness: 1
+navigation:
+  - url: 'https://www.sostudiosfilm.com/into-the-world'
+    name: OFFICIAL SITE
+    type: external
+  - url: 'https://www.sostudiosfilm.com'
+    name: SO STUDIOS
+    type: external
+analytics:
+  google: UA-37252801-8
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb19d8c-75b4-4dd1-8e04-bd554812d630.ico
+author:
+  name: SO STUDIOS
+  email: info@sostudiosfilm.com
+  url: 'https://www.sostudiosfilm.com'
+name: INTO THE WORLD STORIES
+opengraph:
+  type: video.movie
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/20012ee6-e2e3-4c86-904a-55ee184081c1.jpg
+typography_spectrum: 0.0609319
+layout_spectrum: 0.6290323
