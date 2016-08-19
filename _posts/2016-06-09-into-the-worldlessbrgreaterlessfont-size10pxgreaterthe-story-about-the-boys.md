@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T14:38:26.707Z'
+datePublished: '2016-08-19T14:39:43.308Z'
 sourcePath: >-
   _posts/2016-06-09-into-the-worldlessbrgreaterlessfont-size10pxgreaterthe-story-about-the-boys.md
 isBasedOnUrl: 'https://www.sostudiosfilm.com/films/into-the-world/'
@@ -23,7 +23,7 @@ metadata:
   isBasedOnUrl: 'http://itwstories.sostudiosfilm.com'
   sourcePath: >-
     _posts/2016-06-09-into-the-worldlessbrgreaterlessfont-size10pxgreaterthe-story-about-the-boys.md
-dateModified: '2016-08-19T14:38:24.242Z'
+dateModified: '2016-08-19T14:39:41.822Z'
 title: 'INTO THE WORLD <br>THE STORY ABOUT THE BOYS WHO DO NOT WANT TO GROW UP. '
 id: 51211fc7-6d0c-448b-b4d5-893a51f3e3ae
 publisher:
@@ -34,7 +34,7 @@ description: >-
   favourite place known only to himself/herself. That is their own LITTLE world,
   No one can go in there - even parents and friends. In there they feel the
   wind, based in light, and listen the music." - Shunsuke Okubo, dir.-writer.
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
