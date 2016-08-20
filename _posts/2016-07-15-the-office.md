@@ -1,15 +1,19 @@
 ---
 title: "@ the office \uD83C\uDF0A\uD83D\uDCF7 "
-datePublished: '2016-07-15T07:48:21.651Z'
-dateModified: '2016-07-15T07:48:19.229Z'
+datePublished: '2016-08-20T10:50:33.634Z'
+dateModified: '2016-08-20T10:50:32.204Z'
 author:
   - name: esiphotography.es
     url: 'https://www.instagram.com/esiphotography.es'
     avatar: {}
 isBasedOnUrl: 'https://www.instagram.com/p/BH33DFKhCOx/'
 description: ' '
-starred: false
 sourcePath: _posts/2016-07-15-the-office.md
+publisher:
+  name: Instagram
+  url: 'https://instagram.com'
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
