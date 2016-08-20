@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T09:28:48.910Z'
+datePublished: '2016-08-20T13:56:12.100Z'
 sourcePath: _posts/2016-06-19-mejor-con-chocolate-best-with-chocolate.md
 isBasedOnUrl: 'https://www.instagram.com/p/BG1AA0Ltl8R/?tagged=itwstories'
 keywords: []
@@ -8,7 +8,8 @@ author:
   - name: about_yellow_dragons
     url: 'https://www.instagram.com/about_yellow_dragons'
     avatar: {}
-dateModified: '2016-08-20T09:28:47.811Z'
+via: {}
+dateModified: '2016-08-20T13:56:11.426Z'
 title: Mejor con chocolate. Best with chocolate.
 app_links:
   - url: 'instagram://media?id=1275926125460479761'
@@ -32,7 +33,6 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
-via: {}
 starred: false
 inFeed: true
 hasPage: false
