@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-06-29T06:34:10.937Z'
+datePublished: '2016-08-20T09:55:19.597Z'
+sourcePath: >-
+  _posts/2016-06-29-playing-with-his-boat-that-he-built-by-himself-out-of-plast.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHOeI3PDEYY/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +9,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-06-29T06:34:10.243Z'
+dateModified: '2016-08-20T09:55:18.633Z'
 title: 'Playing with his boat, that he built by himself out of plastic bottles ⛵️ '
 app_links:
   - url: 'instagram://media?id=1283095494306579992'
@@ -30,9 +32,8 @@ publisher:
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
-description: ' '
-sourcePath: >-
-  _posts/2016-06-29-playing-with-his-boat-that-he-built-by-himself-out-of-plast.md
+description: '   '
+via: {}
 starred: false
 inFeed: true
 hasPage: false
