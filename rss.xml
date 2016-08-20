@@ -4,7 +4,7 @@
         <description><![CDATA[INTO THE WORLD STORIES]]></description>
         <link>http://itwstories.sostudiosfilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:05:06 GMT</lastBuildDate>
         <atom:link href="http://itwstories.sostudiosfilm.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FEATURED STORIES]]></title>
@@ -12,6 +12,13 @@
             <link>http://itwstories.sostudiosfilm.com/featured-stories/index.html</link>
             <guid isPermaLink="false">02981f28-2246-4346-9312-a927e2de147c</guid>
             <pubDate>Thu, 18 Aug 2016 12:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Be brave]]></title>
+            <description><![CDATA[<article><h1>Be brave</h1><p> </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/66f0bbf3d3eeb63e47f9e65880042899/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F14032832_107518676364793_975181942_n.jpg%3Fig_cache_key%3DMTMxNjkxNjQyNzkwMjgyODgyOQ%253D%253D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BJGoIOMBkEd/</link>
+            <guid isPermaLink="false">23b49d57-bd20-4731-a2fc-17e5e6d7a5eb</guid>
+            <pubDate>Sat, 20 Aug 2016 01:05:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[🏔]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BJPf_nEDej8/?tagged=itwstories</link>
             <guid isPermaLink="false">06ede1d1-c408-4d28-b1f9-a85c2b2d12d9</guid>
             <pubDate>Thu, 18 Aug 2016 12:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Family portrait ]]></title>
-            <description><![CDATA[<article><h1>Family portrait </h1><p> </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a64659b5eac4bfd736017f6dcf07b72/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F14052171_1148276455247000_720748308_n.jpg%3Fig_cache_key%3DMTMxOTA0MTI1MDU5ODcyMjk1Mw%253D%253D.2"></article>]]></description>
-            <link>https://www.instagram.com/p/BJOLQdiBh2J/?tagged=itwstories</link>
-            <guid isPermaLink="false">992fa153-a707-411c-9e62-3401d74c5898</guid>
-            <pubDate>Thu, 18 Aug 2016 02:12:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
