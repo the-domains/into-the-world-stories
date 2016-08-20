@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-14T01:28:05.314Z'
+datePublished: '2016-08-20T09:25:26.614Z'
+sourcePath: _posts/2016-06-14-the-man-i-am-raising.md
 isBasedOnUrl: 'https://www.instagram.com/p/BFm7LOlG1bk/?tagged=itwfilm'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: catewnek
     url: 'https://www.instagram.com/catewnek'
     avatar: {}
-dateModified: '2016-06-14T01:27:03.369Z'
+dateModified: '2016-08-20T09:25:25.797Z'
 title: the man I am raising
 app_links:
   - url: 'instagram://media?id=1253949802582595300'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
+via: {}
 starred: false
-sourcePath: _posts/2016-06-14-the-man-i-am-raising.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -40,4 +41,4 @@ _context: 'http://schema.org'
 _type: Photograph
 
 ---
-![ ](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13256770_233274153717285_1321074909_n.jpg?ig_cache_key=MTI1Mzk0OTgwMjU4MjU5NTMwMA%3D%3D.2)
+![ ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/970d6bba28bfbf4871dbbbffa53d60aaa1654eca.jpg)
