@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-06-27T17:14:43.138Z'
+datePublished: '2016-08-20T09:44:56.090Z'
+sourcePath: >-
+  _posts/2016-06-27-i-absolutely-love-summer-everything-from-catching-lightning.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHKWCGYB5N8/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +9,7 @@ author:
   - name: kristinrmartin
     url: 'https://www.instagram.com/kristinrmartin'
     avatar: {}
-dateModified: '2016-06-27T17:14:40.676Z'
+dateModified: '2016-08-20T09:44:55.418Z'
 title: >-
   I absolutely love summer. Everything from catching lightning bugs to building
   forts in the backyard. Those are some of the things I remember from my
@@ -34,9 +36,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '    '
+via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-06-27-i-absolutely-love-summer-everything-from-catching-lightning.md
 inFeed: true
 hasPage: false
 inNav: false
