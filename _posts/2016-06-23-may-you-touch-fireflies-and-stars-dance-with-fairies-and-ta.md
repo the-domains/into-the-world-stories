@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-06-23T22:36:35.243Z'
+datePublished: '2016-08-20T09:33:04.997Z'
+sourcePath: >-
+  _posts/2016-06-23-may-you-touch-fireflies-and-stars-dance-with-fairies-and-ta.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHAHWUjncpH/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +9,7 @@ author:
   - name: kristinrmartin
     url: 'https://www.instagram.com/kristinrmartin'
     avatar: {}
-dateModified: '2016-06-23T22:36:14.684Z'
+dateModified: '2016-08-20T09:33:04.227Z'
 title: 'May you touch fireflies and stars, dance with fairies and talk to the moon. '
 app_links:
   - url: 'instagram://media?id=1279054614399666759'
@@ -31,9 +33,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '  '
+via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-06-23-may-you-touch-fireflies-and-stars-dance-with-fairies-and-ta.md
 inFeed: true
 hasPage: false
 inNav: false
