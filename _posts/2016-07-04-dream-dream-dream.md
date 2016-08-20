@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-04T09:00:40.780Z'
+datePublished: '2016-08-20T10:12:49.129Z'
+sourcePath: _posts/2016-07-04-dream-dream-dream.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHbrdLdBX8O/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: about_yellow_dragons
     url: 'https://www.instagram.com/about_yellow_dragons'
     avatar: {}
-dateModified: '2016-07-04T09:00:36.995Z'
+dateModified: '2016-08-20T10:12:47.528Z'
 title: 'Dream, dream, dream...  '
 app_links:
   - url: 'instagram://media?id=1286813239707270926'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: _posts/2016-07-04-dream-dream-dream.md
 inFeed: true
 hasPage: false
 inNav: false
