@@ -4,7 +4,7 @@
         <description><![CDATA[INTO THE WORLD STORIES]]></description>
         <link>http://itwstories.sostudiosfilm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 10:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 10:31:40 GMT</lastBuildDate>
         <atom:link href="http://itwstories.sostudiosfilm.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.instagram.com/p/BJPRMOyjPiw/?tagged=itwstories</link>
             <guid isPermaLink="false">eca0cbe3-4e1d-441e-9b65-6e7c52dd26e5</guid>
             <pubDate>Thu, 18 Aug 2016 12:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Daydreaming ]]></title>
+            <description><![CDATA[<article><h1>Daydreaming </h1><p>   </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f9ae429aa3048681899b27a98cac0ee1/croprotate.jpg?cropheight=438&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13643537_982402988523627_1149003585_n.jpg%3Fig_cache_key%3DMTI4OTgxNDY4ODcwODYwODExNQ%253D%253D.2&x=0&y=100"></article>]]></description>
+            <link>https://www.instagram.com/p/BHmV6AqjsBz/?tagged=itwstories</link>
+            <guid isPermaLink="false">e414f22b-907f-478d-9c43-8a38eaf4ba93</guid>
+            <pubDate>Sat, 20 Aug 2016 10:31:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sister Love ]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BHkmXBHhWyS/?tagged=itwstories</link>
             <guid isPermaLink="false">cf7dcf64-e1ed-42e8-8f35-f96721ab8eb4</guid>
             <pubDate>Sat, 20 Aug 2016 10:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Incluso los superhéroes duermen siesta. Even superheroes sleep a nap. ]]></title>
-            <description><![CDATA[<article><h1>Incluso los superhéroes duermen siesta. Even superheroes sleep a nap. </h1><p>   </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/89e09acabd842e95257dfd3c6d7e2b1a/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fsh0.08%2Fe35%2Fp640x640%2F13573353_595291287315786_1700178043_n.jpg%3Fig_cache_key%3DMTI4OTE3OTg1MTE1MjI1OTU0NA%253D%253D.2"></article>]]></description>
-            <link>https://www.instagram.com/p/BHkFj6HhXnY/?tagged=itwstories</link>
-            <guid isPermaLink="false">0b05ecd9-78b7-4e15-9a39-58555dbe0102</guid>
-            <pubDate>Sat, 20 Aug 2016 10:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
