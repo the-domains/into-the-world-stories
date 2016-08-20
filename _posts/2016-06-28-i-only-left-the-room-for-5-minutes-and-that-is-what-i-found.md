@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-28T14:35:01.127Z'
+datePublished: '2016-08-20T09:48:09.288Z'
 sourcePath: >-
   _posts/2016-06-28-i-only-left-the-room-for-5-minutes-and-that-is-what-i-found.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHMCxEAjaOR/?tagged=itwstories'
@@ -9,7 +9,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-06-28T14:34:56.931Z'
+dateModified: '2016-08-20T09:48:08.135Z'
 title: "I only left the room for 5 minutes and that is what I found when I came back - 4 happy Kids and such a mess \uD83D\uDC37\uD83D\uDC37\uD83D\uDC37\uD83D\uDC37  "
 app_links:
   - url: 'instagram://media?id=1282412161545380753'
@@ -33,6 +33,7 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
 inFeed: true
 hasPage: false
