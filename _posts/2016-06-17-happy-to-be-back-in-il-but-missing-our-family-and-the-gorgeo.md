@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-06-17T23:38:49.918Z'
+datePublished: '2016-08-20T09:27:48.718Z'
+sourcePath: >-
+  _posts/2016-06-17-happy-to-be-back-in-il-but-missing-our-family-and-the-gorgeo.md
 isBasedOnUrl: 'https://www.instagram.com/p/BGuYAn8ncvu/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +9,7 @@ author:
   - name: kristinrmartin
     url: 'https://www.instagram.com/kristinrmartin'
     avatar: {}
-dateModified: '2016-06-17T23:38:45.945Z'
+dateModified: '2016-08-20T09:27:47.856Z'
 title: Happy to be back in IL but missing our family and the gorgeous scenery in CO
 app_links:
   - url: 'instagram://media?id=1274061340601601006'
@@ -31,9 +33,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
+via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-06-17-happy-to-be-back-in-il-but-missing-our-family-and-the-gorgeo.md
 inFeed: true
 hasPage: false
 inNav: false
