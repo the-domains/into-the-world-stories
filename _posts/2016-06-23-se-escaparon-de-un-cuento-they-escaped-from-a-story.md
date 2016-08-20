@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-23T22:34:37.792Z'
+datePublished: '2016-08-20T09:33:45.572Z'
+sourcePath: _posts/2016-06-23-se-escaparon-de-un-cuento-they-escaped-from-a-story.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHAsv4QNlzV/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: about_yellow_dragons
     url: 'https://www.instagram.com/about_yellow_dragons'
     avatar: {}
-dateModified: '2016-06-23T22:34:33.057Z'
+dateModified: '2016-08-20T09:33:44.769Z'
 title: Se escaparon de un cuento. They escaped from a story.
 app_links:
   - url: 'instagram://media?id=1279219098436656341'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '  '
+via: {}
 starred: false
-sourcePath: _posts/2016-06-23-se-escaparon-de-un-cuento-they-escaped-from-a-story.md
 inFeed: true
 hasPage: false
 inNav: false
