@@ -1,7 +1,8 @@
 ---
-datePublished: '2016-08-20T07:10:34.386Z'
+datePublished: '2016-08-20T07:11:34.901Z'
 sourcePath: >-
   _posts/2016-06-09-into-the-worldlessbrgreaterlessfont-size10pxgreaterthe-story-about-the-boys.md
+inFeed: true
 isBasedOnUrl: 'https://www.sostudiosfilm.com/films/into-the-world/'
 author:
   - name: Background paintings by Elicia Edijanto
@@ -23,7 +24,7 @@ metadata:
   isBasedOnUrl: 'http://itwstories.sostudiosfilm.com'
   sourcePath: >-
     _posts/2016-06-09-into-the-worldlessbrgreaterlessfont-size10pxgreaterthe-story-about-the-boys.md
-dateModified: '2016-08-20T07:10:33.680Z'
+dateModified: '2016-08-20T07:11:34.256Z'
 title: 'INTO THE WORLD <br>THE STORY ABOUT THE BOYS WHO DO NOT WANT TO GROW UP. '
 id: 51211fc7-6d0c-448b-b4d5-893a51f3e3ae
 publisher:
@@ -35,9 +36,6 @@ description: >-
   No one can go in there - even parents and friends. In there they feel the
   wind, based in light, and listen the music." - Shunsuke Okubo, dir.-writer.
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
