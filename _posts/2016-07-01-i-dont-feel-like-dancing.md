@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T13:50:00.175Z'
+datePublished: '2016-08-20T14:05:36.254Z'
 sourcePath: _posts/2016-07-01-i-dont-feel-like-dancing.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHUZqIujMhB/?tagged=itwstories'
 keywords: []
@@ -9,8 +9,8 @@ author:
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
 via: {}
-dateModified: '2016-08-20T13:49:59.262Z'
-title: "I don't feel like dancing \uD83D\uDC95  "
+dateModified: '2016-08-20T14:05:35.669Z'
+title: "I don't feel like dancing \uD83D\uDC95"
 app_links:
   - url: 'instagram://media?id=1284764640459147329'
     type: ios
