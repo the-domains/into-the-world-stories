@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T09:29:08.079Z'
+datePublished: '2016-08-20T13:55:48.369Z'
 sourcePath: _posts/2016-06-20-bestfatherever-sparkles.md
 isBasedOnUrl: 'https://www.instagram.com/p/BG2RB1-Rc1V/?tagged=itwstories'
 keywords: []
@@ -8,8 +8,9 @@ author:
   - name: esiphotography.es
     url: 'https://www.instagram.com/esiphotography.es'
     avatar: {}
-dateModified: '2016-08-20T09:29:07.226Z'
-title: '#bestfatherever ✨'
+via: {}
+dateModified: '2016-08-20T13:55:47.464Z'
+title: '#bestfatherever ✨ '
 app_links:
   - url: 'instagram://media?id=1276282437869358421'
     type: ios
@@ -32,7 +33,6 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
-via: {}
 starred: false
 inFeed: true
 hasPage: false
