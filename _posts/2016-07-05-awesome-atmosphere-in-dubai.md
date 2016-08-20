@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-05T11:56:50.153Z'
+datePublished: '2016-08-20T10:24:19.497Z'
+sourcePath: _posts/2016-07-05-awesome-atmosphere-in-dubai.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHeDmlsjC-7/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-07-05T11:55:28.943Z'
+dateModified: '2016-08-20T10:24:18.751Z'
 title: 'Awesome atmosphere in Dubai  '
 app_links:
   - url: 'instagram://media?id=1287482389430022075'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '  '
+via: {}
 starred: false
-sourcePath: _posts/2016-07-05-awesome-atmosphere-in-dubai.md
 inFeed: true
 hasPage: false
 inNav: false
