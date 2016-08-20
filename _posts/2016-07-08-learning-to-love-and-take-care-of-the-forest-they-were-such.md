@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-07-08T06:31:57.234Z'
+datePublished: '2016-08-20T10:30:28.552Z'
+sourcePath: >-
+  _posts/2016-07-08-learning-to-love-and-take-care-of-the-forest-they-were-such.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHkYelDju__/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +9,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-07-08T06:31:34.933Z'
+dateModified: '2016-08-20T10:30:27.549Z'
 title: "Learning to love and take care of the forest. They were such a big help! Hard working, so the puddles don't destroy the paths \uD83C\uDF32\uD83C\uDF32\uD83C\uDF32  "
 app_links:
   - url: 'instagram://media?id=1289263047823519743'
@@ -31,9 +33,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-07-08-learning-to-love-and-take-care-of-the-forest-they-were-such.md
 inFeed: true
 hasPage: false
 inNav: false
