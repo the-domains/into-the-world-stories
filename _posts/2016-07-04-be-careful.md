@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-04T19:19:14.936Z'
+datePublished: '2016-08-20T10:18:59.141Z'
 sourcePath: _posts/2016-07-04-be-careful.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHcx96tjraL/?tagged=itwstories'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: orianonicolau
     url: 'https://www.instagram.com/orianonicolau'
     avatar: {}
-dateModified: '2016-07-04T19:19:10.854Z'
+dateModified: '2016-08-20T10:18:58.112Z'
 title: "Be careful \uD83D\uDE02   "
 app_links:
   - url: 'instagram://media?id=1287123352729597579'
@@ -32,6 +32,7 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '    '
+via: {}
 starred: false
 inFeed: true
 hasPage: false
