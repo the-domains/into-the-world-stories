@@ -1,12 +1,14 @@
 ---
-datePublished: '2016-07-06T05:56:28.250Z'
+datePublished: '2016-08-20T10:26:56.010Z'
+sourcePath: _posts/2016-07-06-last-days-of-school-holiday-mood-is-rising.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHfAAwnj9j4/?tagged=itwstories'
 keywords: []
 related: []
 author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
-dateModified: '2016-07-06T05:56:09.349Z'
+via: {}
+dateModified: '2016-08-20T10:26:55.404Z'
 title: "Last days of school, holiday mood is rising \uD83D\uDE00\uD83D\uDC4D\uD83C\uDFFB"
 app_links:
   - url: 'instagram://media?id=1287748070654597368'
@@ -24,14 +26,10 @@ app_links:
     namespace: google
     type: android
 publisher:
-  url: 'https://www.instagram.com'
   name: Instagram
-  favicon: >-
-    https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
-  domain: www.instagram.com
+  url: 'https://www.instagram.com'
 description: ''
 starred: false
-sourcePath: _posts/2016-07-06-last-days-of-school-holiday-mood-is-rising.md
 inFeed: true
 hasPage: false
 inNav: false
