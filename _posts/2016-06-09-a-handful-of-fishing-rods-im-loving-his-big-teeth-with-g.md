@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-09T10:28:16.861Z'
+datePublished: '2016-08-20T09:23:24.118Z'
+sourcePath: _posts/2016-06-09-a-handful-of-fishing-rods-im-loving-his-big-teeth-with-g.md
 isBasedOnUrl: 'https://www.instagram.com/p/BGbepWLOSpr/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: adelecoelho
     url: 'https://www.instagram.com/adelecoelho'
     avatar: {}
-dateModified: '2016-06-09T10:28:13.868Z'
+dateModified: '2016-08-20T09:23:23.143Z'
 title: >-
   A handful of "fishing rods". I'm loving his big teeth with gaps on either
   side. Won't be long till there a no baby there left.
@@ -33,8 +34,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
+via: {}
 starred: false
-sourcePath: _posts/2016-06-09-a-handful-of-fishing-rods-im-loving-his-big-teeth-with-g.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -42,4 +43,4 @@ _context: 'http://schema.org'
 _type: Photograph
 
 ---
-![ ](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13402530_1631019960550958_1770126822_n.jpg?ig_cache_key=MTI2ODc0MjUwMjczOTQyMTgwMw%3D%3D.2)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e4816b500fb39c666e8ffd87e29a326592d3145.jpg)
