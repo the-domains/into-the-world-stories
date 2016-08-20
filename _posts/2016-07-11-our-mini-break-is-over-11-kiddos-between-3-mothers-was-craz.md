@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-07-11T10:16:44.691Z'
+datePublished: '2016-08-20T10:40:36.288Z'
+sourcePath: >-
+  _posts/2016-07-11-our-mini-break-is-over-11-kiddos-between-3-mothers-was-craz.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHjO9OSBFTn/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +9,7 @@ author:
   - name: adelecoelho
     url: 'https://www.instagram.com/adelecoelho'
     avatar: {}
-dateModified: '2016-07-11T10:15:16.260Z'
+dateModified: '2016-08-20T10:40:35.618Z'
 title: "Our mini break is over. 11 kiddos between 3 mothers was crazy fun but im now pooped \uD83D\uDE02. We look forward to our next visit. It will be in winter again when the snakes are hiding \uD83D\uDC0D\uD83D\uDE35 "
 app_links:
   - url: 'instagram://media?id=1288939698231989479'
@@ -31,9 +33,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-07-11-our-mini-break-is-over-11-kiddos-between-3-mothers-was-craz.md
 inFeed: true
 hasPage: false
 inNav: false
