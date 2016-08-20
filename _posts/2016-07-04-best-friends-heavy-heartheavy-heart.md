@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-04T17:56:12.060Z'
+datePublished: '2016-08-20T10:14:08.496Z'
+sourcePath: _posts/2016-07-04-best-friends-heavy-heartheavy-heart.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHcjDQBDtF1/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-07-04T17:55:41.734Z'
+dateModified: '2016-08-20T10:14:07.310Z'
 title: 'Best Friends ❤️❤️  '
 app_links:
   - url: 'instagram://media?id=1287057748505055605'
@@ -30,8 +31,8 @@ publisher:
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
-description: ' '
-sourcePath: _posts/2016-07-04-best-friends-heavy-heartheavy-heart.md
+description: '   '
+via: {}
 starred: false
 inFeed: true
 hasPage: false
