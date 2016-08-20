@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T11:02:58.452Z'
+datePublished: '2016-08-20T11:03:53.337Z'
 sourcePath: _posts/2016-07-11-sparkles-featured-sparkles.md
 inFeed: false
 hasPage: true
@@ -30,7 +30,7 @@ metadata:
       style=text-decoration:none>Shunsuke Okubo</a>
     inNav: true
   dateModified: '2016-08-18T12:40:25.722Z'
-dateModified: '2016-08-20T11:02:56.278Z'
+dateModified: '2016-08-20T11:03:52.414Z'
 title: FEATURED STORIES
 id: 02981f28-2246-4346-9312-a927e2de147c
 publisher:
@@ -57,7 +57,7 @@ Does your child have a story in their own LITTLE WORLD?? Share the story with us
 
 Second featured story is from [@esiphotography.es][2]: "🌸"
 
-"It's a fairly well-known fact that our sense of SMELL is deeply linked to memory. Smells can trigger some of our most vivid memories, and is most linked to our emotional recollection. She expressed the story with just one emoji 🌸. I think this is a story about MEMORY. What's the smell that represents your (amazing) childhood? imagine it. When you smell \[Insert your smell here\], you are instantly teleported to when you were a child. and you will remember that there's magic everywhere." - [@ShunsukeOkubo][3] (dir./writer) 
+"It's a fairly well-known fact that our sense of SMELL is deeply linked to memory. Smells can trigger some of our most vivid memories, and is most linked to our emotional recollection. She expressed the story with just one emoji 🌸. I think this is a story about MEMORY. What's the smell that represents your (amazing) childhood? imagine it. When you smell \[Insert your smell here\], you are instantly teleported to when you were a child. and you will remember that there's magic everywhere." - [@ShunsukeOkubo][3] (dir./writer)
 
 Thank you for sharing your story [@esiphotography.es][2] and Congratulations!
 
@@ -68,7 +68,7 @@ First featured story is from [@about\_yellow\_dragons][4]: "THE PRINCE WHO DREAM
 
 "The things kids teach us is what it's like to dream, which is something we forgot how to do as an adult. Dream again." - [@ShunsukeOkubo][3] (dir./writer)
 
-Thank you for sharing your story [@about\_yellow\_dragons][4] and Congratulations! 
+Thank you for sharing your story [@about\_yellow\_dragons][4] and Congratulations!
 
 [0]: https://www.sostudiosfilm.com/team/shunsuke-okubo  "Shunsuke Okubo | SO STUDIOS"
 [1]: https://www.instagram.com/explore/tags/itwstories/ "#itwstories"
