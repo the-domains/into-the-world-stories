@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T08:57:35.861Z'
+datePublished: '2016-08-20T12:55:54.412Z'
 sourcePath: >-
   _posts/2016-06-09-into-the-worldlessbrgreaterlessfont-size10pxgreaterthe-story-about-the-boys.md
 isBasedOnUrl: 'https://www.sostudiosfilm.com/films/into-the-world/'
@@ -45,12 +45,10 @@ metadata:
     world, No one can go in there - even parents and friends. In there they feel
     the wind, based in light, and listen the music." - Shunsuke Okubo,
     dir.-writer.
-dateModified: '2016-08-20T08:57:35.112Z'
+dateModified: '2016-08-20T12:55:53.844Z'
 title: ' '
 id: 51211fc7-6d0c-448b-b4d5-893a51f3e3ae
-publisher:
-  name: SO STUDIOS Film
-  url: 'https://www.sostudiosfilm.com'
+publisher: {}
 description: >-
   Have you ever tried to run away from growing up? <br><br>"Every child has a
   favourite place known only to himself/herself. That is their own LITTLE world,
