@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-07-11T10:16:51.796Z'
+datePublished: '2016-08-20T10:42:00.543Z'
+sourcePath: >-
+  _posts/2016-07-11-snuck-up-on-these-two-and-listened-to-them-talk-farm-and-tra.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHb8vEQB-2s/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +9,7 @@ author:
   - name: adelecoelho
     url: 'https://www.instagram.com/adelecoelho'
     avatar: {}
-dateModified: '2016-07-11T10:16:09.718Z'
+dateModified: '2016-08-20T10:41:59.339Z'
 title: 'Snuck up on these two and listened to them talk farm and tractors. '
 app_links:
   - url: 'instagram://media?id=1286889235714403756'
@@ -31,9 +33,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-07-11-snuck-up-on-these-two-and-listened-to-them-talk-farm-and-tra.md
 inFeed: true
 hasPage: false
 inNav: false
