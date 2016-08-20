@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-04T09:00:21.306Z'
+datePublished: '2016-08-20T10:13:04.632Z'
+sourcePath: _posts/2016-07-04-good-morning-sunshine.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHbYH8ejJin/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-07-04T09:00:17.115Z'
+dateModified: '2016-08-20T10:13:03.910Z'
 title: "Good morning sunshine \uD83C\uDF1E  "
 app_links:
   - url: 'instagram://media?id=1286728217634052263'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: _posts/2016-07-04-good-morning-sunshine.md
 inFeed: true
 hasPage: false
 inNav: false
