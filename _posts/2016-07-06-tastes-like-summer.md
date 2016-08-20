@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-06T13:25:04.329Z'
+datePublished: '2016-08-20T10:27:15.481Z'
+sourcePath: _posts/2016-07-06-tastes-like-summer.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHhRF1VDZGu/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-07-06T13:24:43.070Z'
+dateModified: '2016-08-20T10:27:14.732Z'
 title: 'Tastes like summer  '
 app_links:
   - url: 'instagram://media?id=1288386136054272430'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: _posts/2016-07-06-tastes-like-summer.md
 inFeed: true
 hasPage: false
 inNav: false
