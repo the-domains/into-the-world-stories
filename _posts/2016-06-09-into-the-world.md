@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T08:17:01.093Z'
+datePublished: '2016-08-20T08:21:24.975Z'
 sourcePath: _posts/2016-06-09-into-the-world.md
 inFeed: false
 hasPage: true
@@ -25,7 +25,7 @@ metadata:
       HREF=https://www.sostudiosfilm.com/films/into-the-world/>LEARN MORE</A>
     inNav: true
   dateModified: '2016-08-18T12:32:59.271Z'
-dateModified: '2016-08-20T08:16:59.961Z'
+dateModified: '2016-08-20T08:21:23.842Z'
 title: ABOUT THE FILM
 id: 96057193-5915-4516-93e2-6a55754396e4
 publisher:
@@ -44,7 +44,7 @@ _type: MediaObject
 
 Have you ever tried to run away from growing up? Into the wWorld is the story about the boys who do not want to grow up. from visionary director [Shunsuke Okubo][0] ("20 Seconds of Courage")
 
-> Find your own little world.
+Find your own little world.
 
 [LEARN MORE][1]
 
