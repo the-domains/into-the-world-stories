@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-25T02:14:47.360Z'
+datePublished: '2016-08-20T09:35:30.340Z'
+sourcePath: _posts/2016-06-25-dreaming-in-water.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHDFXTXjTZw/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: orianonicolau
     url: 'https://www.instagram.com/orianonicolau'
     avatar: {}
-dateModified: '2016-06-25T02:13:52.497Z'
+dateModified: '2016-08-20T09:35:29.763Z'
 title: Dreaming in water
 app_links:
   - url: 'instagram://media?id=1279890310680098416'
@@ -30,8 +31,8 @@ publisher:
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
-description: ' '
-sourcePath: _posts/2016-06-25-dreaming-in-water.md
+description: '  '
+via: {}
 starred: false
 inFeed: true
 hasPage: false
