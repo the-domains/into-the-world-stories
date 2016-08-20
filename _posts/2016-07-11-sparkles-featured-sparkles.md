@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T11:03:53.337Z'
+datePublished: '2016-08-20T11:04:49.498Z'
 sourcePath: _posts/2016-07-11-sparkles-featured-sparkles.md
 inFeed: false
 hasPage: true
@@ -30,7 +30,7 @@ metadata:
       style=text-decoration:none>Shunsuke Okubo</a>
     inNav: true
   dateModified: '2016-08-18T12:40:25.722Z'
-dateModified: '2016-08-20T11:03:52.414Z'
+dateModified: '2016-08-20T11:04:48.225Z'
 title: FEATURED STORIES
 id: 02981f28-2246-4346-9312-a927e2de147c
 publisher:
