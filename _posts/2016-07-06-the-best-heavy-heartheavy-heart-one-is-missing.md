@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-06T21:33:34.826Z'
+datePublished: '2016-08-20T10:28:52.015Z'
+sourcePath: _posts/2016-07-06-the-best-heavy-heartheavy-heart-one-is-missing.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHh7HkIjgQ-/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-07-06T21:33:12.368Z'
+dateModified: '2016-08-20T10:28:51.443Z'
 title: "The BEST ❤️❤️\uD83D\uDC99 one is missing \uD83D\uDC99   "
 app_links:
   - url: 'instagram://media?id=1288570972983395390'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: _posts/2016-07-06-the-best-heavy-heartheavy-heart-one-is-missing.md
 inFeed: true
 hasPage: false
 inNav: false
