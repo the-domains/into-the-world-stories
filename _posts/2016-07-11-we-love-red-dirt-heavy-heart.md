@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-11T10:16:57.555Z'
+datePublished: '2016-08-20T10:41:36.699Z'
+sourcePath: _posts/2016-07-11-we-love-red-dirt-heavy-heart.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHdihdGBFak/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: adelecoelho
     url: 'https://www.instagram.com/adelecoelho'
     avatar: {}
-dateModified: '2016-07-11T10:15:49.639Z'
+dateModified: '2016-08-20T10:41:36.002Z'
 title: 'We love red dirt ❤  '
 app_links:
   - url: 'instagram://media?id=1287336901061400228'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: _posts/2016-07-11-we-love-red-dirt-heavy-heart.md
 inFeed: true
 hasPage: false
 inNav: false
