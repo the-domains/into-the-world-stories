@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-06-20T09:10:23.620Z'
+datePublished: '2016-08-20T09:30:16.936Z'
+sourcePath: >-
+  _posts/2016-06-20-i-sure-wasnt-getting-that-close-to-the-edge-but-im-glad-th.md
 isBasedOnUrl: 'https://www.instagram.com/p/BGwihfMHchb/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +9,7 @@ author:
   - name: kristinrmartin
     url: 'https://www.instagram.com/kristinrmartin'
     avatar: {}
-dateModified: '2016-06-20T09:10:18.066Z'
+dateModified: '2016-08-20T09:30:16.160Z'
 title: >-
   I sure wasn't getting that close to the edge but I'm glad they did. I love
   this shot of my nephew and brother-in-law. 
@@ -33,9 +35,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-06-20-i-sure-wasnt-getting-that-close-to-the-edge-but-im-glad-th.md
 inFeed: true
 hasPage: false
 inNav: false
