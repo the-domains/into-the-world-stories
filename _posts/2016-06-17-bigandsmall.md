@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-17T23:39:48.656Z'
+datePublished: '2016-08-20T09:28:29.515Z'
+sourcePath: _posts/2016-06-17-bigandsmall.md
 isBasedOnUrl: 'https://www.instagram.com/p/BGxDGIpNl7E/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: about_yellow_dragons
     url: 'https://www.instagram.com/about_yellow_dragons'
     avatar: {}
-dateModified: '2016-06-17T23:39:42.390Z'
+dateModified: '2016-08-20T09:28:28.458Z'
 title: Big&Small
 app_links:
   - url: 'instagram://media?id=1274813785260318404'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '  '
+via: {}
 starred: false
-sourcePath: _posts/2016-06-17-bigandsmall.md
 inFeed: true
 hasPage: false
 inNav: false
