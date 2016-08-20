@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-11T10:34:05.153Z'
+datePublished: '2016-08-20T10:42:38.926Z'
+sourcePath: _posts/2016-07-11-stare-down.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHL_LGlBNGA/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,8 @@ author:
   - name: adelecoelho
     url: 'https://www.instagram.com/adelecoelho'
     avatar: {}
-dateModified: '2016-07-11T10:33:55.362Z'
+via: {}
+dateModified: '2016-08-20T10:42:38.326Z'
 title: "Stare-down \uD83D\uDC36\uD83D\uDC66  "
 app_links:
   - url: 'instagram://media?id=1282396358825005440'
@@ -30,8 +32,7 @@ publisher:
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
-description: ' '
-sourcePath: _posts/2016-07-11-stare-down.md
+description: '  '
 starred: false
 inFeed: true
 hasPage: false
