@@ -1,6 +1,8 @@
 ---
-datePublished: '2016-08-20T07:09:00.259Z'
-isBasedOnUrl: 'https://www.sostudiosfilm.com/fims/into-the-world/'
+datePublished: '2016-08-20T07:11:06.233Z'
+sourcePath: _posts/2016-06-09-into-the-world.md
+inFeed: false
+hasPage: true
 author:
   - url: 'https://www.instagram.com/itwfilm/'
     name: INTO THE WORLD Film
@@ -23,7 +25,7 @@ metadata:
       HREF=https://www.sostudiosfilm.com/films/into-the-world/>LEARN MORE</A>
     inNav: true
   dateModified: '2016-08-18T12:32:59.271Z'
-dateModified: '2016-08-20T07:08:58.918Z'
+dateModified: '2016-08-20T07:11:05.585Z'
 title: ABOUT THE FILM
 id: 96057193-5915-4516-93e2-6a55754396e4
 publisher:
@@ -33,10 +35,7 @@ description: >-
   HAVE YOU EVER TRIED TO RUN AWAY FROM GROWING UP? INTO THE WORLD IS THE STORY
   ABOUT THE BOYS WHO DO NOT WANT TO GROW UP. LEARN MORE
 starred: true
-sourcePath: _posts/2016-06-09-into-the-world.md
-inFeed: true
-hasPage: false
-inNav: false
+url: about-the-film/index.html
 _type: MediaObject
 
 ---
