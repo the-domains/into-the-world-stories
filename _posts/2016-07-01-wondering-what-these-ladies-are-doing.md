@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T10:09:47.386Z'
+datePublished: '2016-08-20T13:49:28.326Z'
 sourcePath: _posts/2016-07-01-wondering-what-these-ladies-are-doing.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHVCjC4jxhm/?tagged=itwstories'
 keywords: []
@@ -8,8 +8,9 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-08-20T10:09:46.746Z'
-title: "Wondering what these ladies are doing \uD83D\uDE02\uD83D\uDE02\uD83D\uDE02 "
+via: {}
+dateModified: '2016-08-20T13:49:27.688Z'
+title: "Wondering what these ladies are doing \uD83D\uDE02\uD83D\uDE02\uD83D\uDE02  "
 app_links:
   - url: 'instagram://media?id=1284944473055238246'
     type: ios
@@ -32,7 +33,6 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
-via: {}
 starred: false
 inFeed: true
 hasPage: false
