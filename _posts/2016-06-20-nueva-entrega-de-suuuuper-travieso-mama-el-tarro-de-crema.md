@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T09:29:28.479Z'
+datePublished: '2016-08-20T13:55:35.106Z'
 sourcePath: _posts/2016-06-20-nueva-entrega-de-suuuuper-travieso-mama-el-tarro-de-crema.md
 isBasedOnUrl: 'https://www.instagram.com/p/BG3m60CNlx0/?tagged=itwstories'
 keywords: []
@@ -8,11 +8,12 @@ author:
   - name: about_yellow_dragons
     url: 'https://www.instagram.com/about_yellow_dragons'
     avatar: {}
-dateModified: '2016-08-20T09:29:27.660Z'
+via: {}
+dateModified: '2016-08-20T13:55:34.506Z'
 title: >-
   Nueva entrega de Suuuuper Travieso: "Mamá, el tarro de crema me atacó" (llanto
   preventivo por si cae bronca) "Mom, cream jar attacked me" (crying advance mom
-  anger)
+  anger) 
 app_links:
   - url: 'instagram://media?id=1276660186751589492'
     type: ios
@@ -35,7 +36,6 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
-via: {}
 starred: false
 inFeed: true
 hasPage: false
