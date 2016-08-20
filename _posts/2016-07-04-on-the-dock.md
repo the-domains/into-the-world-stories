@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-06T05:51:20.609Z'
+datePublished: '2016-08-20T10:14:35.728Z'
 sourcePath: _posts/2016-07-04-on-the-dock.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHcjXOyDgCm/?tagged=itwstories'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: orianonicolau
     url: 'https://www.instagram.com/orianonicolau'
     avatar: {}
-dateModified: '2016-07-06T03:15:25.749Z'
+dateModified: '2016-08-20T10:14:34.671Z'
 title: 'On the dock  '
 app_links:
   - url: 'instagram://media?id=1287059121569136806'
@@ -32,6 +32,7 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '    '
+via: {}
 starred: false
 inFeed: true
 hasPage: false
