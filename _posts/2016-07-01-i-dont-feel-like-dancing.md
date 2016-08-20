@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-01T23:25:14.404Z'
+datePublished: '2016-08-20T10:09:27.196Z'
+sourcePath: _posts/2016-07-01-i-dont-feel-like-dancing.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHUZqIujMhB/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-07-01T23:24:28.414Z'
+dateModified: '2016-08-20T10:09:26.493Z'
 title: "I don't feel like dancing \uD83D\uDC95 "
 app_links:
   - url: 'instagram://media?id=1284764640459147329'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: _posts/2016-07-01-i-dont-feel-like-dancing.md
 inFeed: true
 hasPage: false
 inNav: false
