@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-28T14:37:35.808Z'
+datePublished: '2016-08-20T09:49:01.991Z'
+sourcePath: _posts/2016-06-28-y-resulta-que-mi-padre-tenia-una-go-pro-en-casa.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHK6vlGhLGu/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: silviaper81
     url: 'https://www.instagram.com/silviaper81'
     avatar: {}
-dateModified: '2016-06-28T14:37:22.676Z'
+dateModified: '2016-08-20T09:49:01.295Z'
 title: 'Y resulta que mi padre tenía una Go Pro en casa...! '
 app_links:
   - url: 'instagram://media?id=1282095400291185070'
@@ -30,8 +31,8 @@ publisher:
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
-description: ' '
-sourcePath: _posts/2016-06-28-y-resulta-que-mi-padre-tenia-una-go-pro-en-casa.md
+description: '   '
+via: {}
 starred: false
 inFeed: true
 hasPage: false
