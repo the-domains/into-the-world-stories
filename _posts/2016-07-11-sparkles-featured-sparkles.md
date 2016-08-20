@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T12:11:10.573Z'
+datePublished: '2016-08-20T12:12:53.775Z'
 sourcePath: _posts/2016-07-11-sparkles-featured-sparkles.md
 inFeed: false
 hasPage: true
@@ -30,7 +30,7 @@ metadata:
       style=text-decoration:none>Shunsuke Okubo</a>
     inNav: true
   dateModified: '2016-08-18T12:40:25.722Z'
-dateModified: '2016-08-20T12:11:09.844Z'
+dateModified: '2016-08-20T12:12:52.966Z'
 title: FEATURED STORIES
 id: 02981f28-2246-4346-9312-a927e2de147c
 publisher:
@@ -71,6 +71,7 @@ First featured story is from [@about\_yellow\_dragons][4]: "THE PRINCE WHO DREAM
 "The things kids teach us is what it's like to dream, which is something we forgot how to do as an adult. Dream again." - [@ShunsukeOkubo][3] (dir./writer)
 
 Thank you for sharing your story [@about\_yellow\_dragons][4] and Congratulations!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/982559c4-2326-45d7-9317-1a993644e0d1.png)
 
 [0]: https://www.sostudiosfilm.com/team/shunsuke-okubo  "Shunsuke Okubo | SO STUDIOS"
 [1]: https://www.instagram.com/explore/tags/itwstories/ "#itwstories"
