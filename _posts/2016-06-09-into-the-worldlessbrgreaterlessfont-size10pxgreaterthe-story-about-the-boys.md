@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T07:06:40.486Z'
+datePublished: '2016-08-20T07:10:34.386Z'
 sourcePath: >-
   _posts/2016-06-09-into-the-worldlessbrgreaterlessfont-size10pxgreaterthe-story-about-the-boys.md
 isBasedOnUrl: 'https://www.sostudiosfilm.com/films/into-the-world/'
@@ -23,7 +23,7 @@ metadata:
   isBasedOnUrl: 'http://itwstories.sostudiosfilm.com'
   sourcePath: >-
     _posts/2016-06-09-into-the-worldlessbrgreaterlessfont-size10pxgreaterthe-story-about-the-boys.md
-dateModified: '2016-08-20T07:06:39.792Z'
+dateModified: '2016-08-20T07:10:33.680Z'
 title: 'INTO THE WORLD <br>THE STORY ABOUT THE BOYS WHO DO NOT WANT TO GROW UP. '
 id: 51211fc7-6d0c-448b-b4d5-893a51f3e3ae
 publisher:
