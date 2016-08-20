@@ -26,6 +26,9 @@ navigation:
   - name: ABOUT THE FILM
     id: 96057193-5915-4516-93e2-6a55754396e4
     type: content
+  - name: FEATURED STORIES
+    id: 02981f28-2246-4346-9312-a927e2de147c
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb19d8c-75b4-4dd1-8e04-bd554812d630.ico
 collections:
