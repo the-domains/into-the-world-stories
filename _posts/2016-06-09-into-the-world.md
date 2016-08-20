@@ -1,12 +1,14 @@
 ---
-datePublished: '2016-08-20T11:56:37.765Z'
+datePublished: '2016-08-20T12:15:35.907Z'
 sourcePath: _posts/2016-06-09-into-the-world.md
 inFeed: false
 hasPage: true
 author:
   - url: 'https://www.instagram.com/itwfilm/'
     name: INTO THE WORLD Film
-via: {}
+via:
+  name: SO STUDIOS
+  url: 'https://www.sostudiosfilm.com/'
 metadata:
   id: 96057193-5915-4516-93e2-6a55754396e4
   metadata:
@@ -25,14 +27,14 @@ metadata:
       HREF=https://www.sostudiosfilm.com/films/into-the-world/>LEARN MORE</A>
     inNav: true
   dateModified: '2016-08-18T12:32:59.271Z'
-dateModified: '2016-08-20T11:56:35.947Z'
+dateModified: '2016-08-20T12:15:34.898Z'
 title: ABOUT THE FILM
 id: 96057193-5915-4516-93e2-6a55754396e4
 publisher:
   name: Instagram
   url: 'https://www.instagram.com'
 description: >-
-  Have you ever tried to run away from growing up? Into the wWorld is the story
+  Have you ever tried to run away from growing up? Into the World is the story
   about the boys who do not want to grow up. from visionary director Shunsuke
   Okubo (“20 Seconds of Courage”)
 starred: true
@@ -42,7 +44,7 @@ _type: MediaObject
 ---
 ![ ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe2f5a91-0bc1-40cd-8dec-263909084e7a.jpg)
 
-Have you ever tried to run away from growing up? Into the wWorld is the story about the boys who do not want to grow up. from visionary director [Shunsuke Okubo][0] ("20 Seconds of Courage")
+Have you ever tried to run away from growing up? Into the World is the story about the boys who do not want to grow up. from visionary director [Shunsuke Okubo][0] ("20 Seconds of Courage")
 
 Escape from ordinary and Find your own little world.
 
