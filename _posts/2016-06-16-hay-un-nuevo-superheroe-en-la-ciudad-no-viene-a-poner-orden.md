@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T16:27:02.682Z'
+datePublished: '2016-08-20T09:25:47.834Z'
 sourcePath: >-
   _posts/2016-06-16-hay-un-nuevo-superheroe-en-la-ciudad-no-viene-a-poner-orden.md
 isBasedOnUrl: 'https://www.instagram.com/p/BGuKMbsNlzd/?tagged=itwstories'
@@ -9,7 +9,7 @@ author:
   - name: about_yellow_dragons
     url: 'https://www.instagram.com/about_yellow_dragons'
     avatar: {}
-dateModified: '2016-06-16T16:26:59.064Z'
+dateModified: '2016-08-20T09:25:46.641Z'
 title: >-
   Hay un nuevo superhéroe en la ciudad. No viene a poner orden, sino a arrancar
   carcajadas. Súper travieso!!!!!! There is a new superhero in town. He don't
@@ -36,6 +36,7 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '  '
+via: {}
 starred: false
 inFeed: true
 hasPage: false
