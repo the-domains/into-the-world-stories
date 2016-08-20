@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-25T02:14:44.949Z'
+datePublished: '2016-08-20T09:37:50.287Z'
+sourcePath: _posts/2016-06-25-in-shadows-lucasnicolau1-dreaming-in-water.md
 isBasedOnUrl: 'https://www.instagram.com/p/BG9_c5fQb0R/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: orianonicolau
     url: 'https://www.instagram.com/orianonicolau'
     avatar: {}
-dateModified: '2016-06-25T02:14:39.643Z'
+dateModified: '2016-08-20T09:37:49.742Z'
 title: In shadows @lucasnicolau1 Dreaming in water
 app_links:
   - url: 'instagram://media?id=1278456932046322961'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
+via: {}
 starred: false
-sourcePath: _posts/2016-06-25-in-shadows-lucasnicolau1-dreaming-in-water.md
 inFeed: true
 hasPage: false
 inNav: false
