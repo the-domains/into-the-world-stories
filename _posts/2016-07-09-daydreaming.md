@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-09T03:40:20.144Z'
+datePublished: '2016-08-20T10:31:38.398Z'
+sourcePath: _posts/2016-07-09-daydreaming.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHmV6AqjsBz/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-07-09T03:40:04.008Z'
+dateModified: '2016-08-20T10:31:37.356Z'
 title: 'Daydreaming '
 app_links:
   - url: 'instagram://media?id=1289814688708608115'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: _posts/2016-07-09-daydreaming.md
 inFeed: true
 hasPage: false
 inNav: false
