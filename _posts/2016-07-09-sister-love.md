@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-09T03:40:18.902Z'
+datePublished: '2016-08-20T10:31:19.033Z'
+sourcePath: _posts/2016-07-09-sister-love.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHm5nscj19Z/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-07-09T03:40:16.054Z'
+dateModified: '2016-08-20T10:31:18.256Z'
 title: 'Sister Love '
 app_links:
   - url: 'instagram://media?id=1289971759722749785'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
+via: {}
 starred: false
-sourcePath: _posts/2016-07-09-sister-love.md
 inFeed: true
 hasPage: false
 inNav: false
