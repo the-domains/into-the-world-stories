@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T10:08:49.445Z'
+datePublished: '2016-08-20T13:50:40.789Z'
 sourcePath: _posts/2016-07-01-morning-has-broken-sparkles.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHTzv0XhHRZ/?tagged=itwstories'
 keywords: []
@@ -8,7 +8,8 @@ author:
   - name: esiphotography.es
     url: 'https://www.instagram.com/esiphotography.es'
     avatar: {}
-dateModified: '2016-08-20T10:08:48.201Z'
+via: {}
+dateModified: '2016-08-20T13:50:40.153Z'
 title: 'morning has broken ✨  '
 app_links:
   - url: 'instagram://media?id=1284597905147327577'
@@ -32,7 +33,6 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: '   '
-via: {}
 starred: false
 inFeed: true
 hasPage: false
