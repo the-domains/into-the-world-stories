@@ -29,11 +29,11 @@ navigation:
   - name: 'SHARE YOUR #ITWSTORIES!'
     id: 1d6d3dfd-585f-44f5-98a5-d657455979a8
     type: content
-  - name: OFFICIAL SITE
-    url: 'https://www.sostudiosfilm.com/into-the-world'
-    type: external
   - name: SO STUDIOS
     url: 'https://www.sostudiosfilm.com'
+    type: external
+  - name: OFFICIAL SITE
+    url: 'https://www.sostudiosfilm.com/into-the-world'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb19d8c-75b4-4dd1-8e04-bd554812d630.ico
