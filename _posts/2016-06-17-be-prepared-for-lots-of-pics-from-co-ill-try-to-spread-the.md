@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-06-17T23:38:17.229Z'
+datePublished: '2016-08-20T09:27:31.011Z'
+sourcePath: >-
+  _posts/2016-06-17-be-prepared-for-lots-of-pics-from-co-ill-try-to-spread-the.md
 isBasedOnUrl: 'https://www.instagram.com/p/BGup9gLnchx/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +9,7 @@ author:
   - name: kristinrmartin
     url: 'https://www.instagram.com/kristinrmartin'
     avatar: {}
-dateModified: '2016-06-17T23:38:04.414Z'
+dateModified: '2016-08-20T09:27:29.904Z'
 title: "Be prepared for lots of pics from CO! I'll try to spread them out so you all don't get too sick of them. But then again, how can you get tired of seeing my adorable niece in her underwear in her backyard, with her cat \uD83D\uDE02 She cracks me up!"
 app_links:
   - url: 'instagram://media?id=1274140290942093425'
@@ -31,9 +33,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
+via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-06-17-be-prepared-for-lots-of-pics-from-co-ill-try-to-spread-the.md
 inFeed: true
 hasPage: false
 inNav: false
