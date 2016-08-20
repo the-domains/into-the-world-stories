@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T07:11:06.233Z'
+datePublished: '2016-08-20T07:12:16.998Z'
 sourcePath: _posts/2016-06-09-into-the-world.md
 inFeed: false
 hasPage: true
@@ -25,7 +25,7 @@ metadata:
       HREF=https://www.sostudiosfilm.com/films/into-the-world/>LEARN MORE</A>
     inNav: true
   dateModified: '2016-08-18T12:32:59.271Z'
-dateModified: '2016-08-20T07:11:05.585Z'
+dateModified: '2016-08-20T07:12:16.387Z'
 title: ABOUT THE FILM
 id: 96057193-5915-4516-93e2-6a55754396e4
 publisher:
