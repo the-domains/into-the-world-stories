@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-27T06:31:41.018Z'
+datePublished: '2016-08-20T09:43:25.774Z'
+sourcePath: _posts/2016-06-27-have-a-happy-monday-morning.md
 isBasedOnUrl: 'https://www.instagram.com/p/BHJWe7eDHJ7/?tagged=itwstories'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: daisy.seilern
     url: 'https://www.instagram.com/daisy.seilern'
     avatar: {}
-dateModified: '2016-06-27T06:31:37.565Z'
+dateModified: '2016-08-20T09:43:25.137Z'
 title: "Have a happy monday morning\uD83D\uDE02"
 app_links:
   - url: 'instagram://media?id=1281654451426062971'
@@ -31,8 +32,8 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ' '
+via: {}
 starred: false
-sourcePath: _posts/2016-06-27-have-a-happy-monday-morning.md
 inFeed: true
 hasPage: false
 inNav: false
