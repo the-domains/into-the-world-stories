@@ -1,4 +1,3 @@
-layout_spectrum: 0.09590735472738743
 typography_spectrum: 0.35193073214031756
 color:
   saturation: 0.8387097
@@ -15,6 +14,7 @@ opengraph:
   type: video.movie
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/20012ee6-e2e3-4c86-904a-55ee184081c1.jpg
+layout_spectrum: 0.09590735472738743
 analytics:
   google: UA-37252801-8
 author:
@@ -52,4 +52,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: Find your own little world.
