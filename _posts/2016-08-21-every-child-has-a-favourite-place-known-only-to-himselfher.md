@@ -1,11 +1,14 @@
 ---
-datePublished: '2016-08-21T09:35:51.453Z'
+datePublished: '2016-08-21T09:37:06.872Z'
+sourcePath: >-
+  _posts/2016-08-21-every-child-has-a-favourite-place-known-only-to-himselfher.md
+inFeed: true
 isBasedOnUrl: 'https://www.sostudiosfilm.com/into-the-world/'
 author:
   - name: Beautiful paintings by Elicia Edijanto
     url: 'http://www.eliciaedijanto.com'
 via: {}
-dateModified: '2016-08-21T09:35:38.353Z'
+dateModified: '2016-08-21T09:37:06.262Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,11 +17,6 @@ description: >-
   there they feel the wind, based in light, and listen the music." - Shunsuke
   Okubo, dir.-writer.
 starred: true
-sourcePath: >-
-  _posts/2016-08-21-every-child-has-a-favourite-place-known-only-to-himselfher.md
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
