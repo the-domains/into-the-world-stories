@@ -26,11 +26,11 @@ navigation:
   - name: HOME
     url: 'http://itwstories.sostudiosfilm.com/'
     type: external
-  - name: FEATURED STORIES
-    id: 02981f28-2246-4346-9312-a927e2de147c
-    type: content
   - name: ABOUT THE FILM
     id: 96057193-5915-4516-93e2-6a55754396e4
+    type: content
+  - name: FEATURED STORIES
+    id: 02981f28-2246-4346-9312-a927e2de147c
     type: content
   - name: 'SHARE YOUR #ITWSTORIES'
     id: 1d6d3dfd-585f-44f5-98a5-d657455979a8
