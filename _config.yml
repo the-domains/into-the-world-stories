@@ -1,4 +1,3 @@
-layout_spectrum: 0.9539905451238155
 typography_spectrum: 0.2749696411192417
 color:
   saturation: 0.8387097
@@ -15,6 +14,7 @@ opengraph:
   type: video.movie
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/20012ee6-e2e3-4c86-904a-55ee184081c1.jpg
+layout_spectrum: 0.9539905451238155
 analytics:
   google: UA-37252801-8
 author:
@@ -52,5 +52,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: 'Escape from the ordinary, and find your own little world.'
 description: ''
