@@ -1,4 +1,3 @@
-layout_spectrum: 0.629418371245265
 typography_spectrum: 0.27546266047284007
 color:
   saturation: 0.8387097
@@ -15,6 +14,7 @@ opengraph:
   type: video.movie
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/20012ee6-e2e3-4c86-904a-55ee184081c1.jpg
+layout_spectrum: 0.629418371245265
 analytics:
   google: UA-37252801-8
 author:
@@ -29,11 +29,11 @@ navigation:
   - name: ABOUT THE FILM
     id: 96057193-5915-4516-93e2-6a55754396e4
     type: content
-  - name: FEATURED STORIES
-    id: 02981f28-2246-4346-9312-a927e2de147c
-    type: content
   - name: 'SHARE YOUR #ITWSTORIES'
     id: 1d6d3dfd-585f-44f5-98a5-d657455979a8
+    type: content
+  - name: FEATURED STORIES
+    id: 02981f28-2246-4346-9312-a927e2de147c
     type: content
   - name: LINKS
     id: 46206462-e7f6-41dc-afa0-3b48b0ea6e51
