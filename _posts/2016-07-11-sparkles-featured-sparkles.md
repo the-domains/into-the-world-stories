@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-07-11T09:16:50.155Z'
+datePublished: '2017-07-11T09:37:28.920Z'
 sourcePath: _posts/2016-07-11-sparkles-featured-sparkles.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-07-11T09:16:49.237Z'
+dateModified: '2017-07-11T09:37:28.235Z'
 title: ' Featured Stories'
 id: 02981f28-2246-4346-9312-a927e2de147c
 publisher: {}
@@ -42,7 +42,7 @@ First featured story is from [@about\_yellow\_dragons][4]: "THE PRINCE WHO DREAM
 Thank you for sharing your story [@about\_yellow\_dragons][4] and Congratulations!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67cd9818-4c69-4761-9be0-6c180d9523a8.png)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkF1vgyAUQN_9FYSnNgtqMfWj0_6RZQ9XUEuLQryYxq3776NrtxgzHjmHG84tUYzKOgI4D4LgKCoaRRa6BiQPO2M63XgilQCnzBAK0z9pdMYIJNbzQwrPSI9l9Jh2DEo1IBEaECu6sGhA7gfdrJuKSoVWw3yotRGXJ5LggIFkrRl7cBVt9aTkivk3ZvJM9f4nzBn7L2eXZq4oO6WsfUkc232wwqxEoVUz-EECmJ1qxhOeZ9k-j5MiTXkcr2zUxrtFnu32WZpwfu_1mT72t_pH3yx6SUWuapDmGi4vbzfy9r4N7YSnzefX9jX429s32AR-ag" height="140" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkM2OgyAURvc-BWHVZoJYTP3pqC8ymQWCWloU4sU0znTefWhsGuMMCxacw5f73aIeaRUUf28Qo7IOcZgHgWAUJabU8q7hkoWdMZ1uPJFKcKfMEArTPym9AOUS6nmRwgvgqqBLmo9VAyChOUCJVxYO0OOAm3VTYqnAaj6fam3E9Ykkd5xwSVoz9tyVuNWTkhvm_5jJM9X7SYgz9l9Ors1cYnJOSPsWO3L4IrnZiEKrZvBBghM71YTFLEvTYxbFeZKwKNrYoI138yw9HNMkZuzR19d87bBa9N2qLyrRTQ3S3ML14_2OPj73oZ3gvPv-2b8Hr739AqfqhIY" height="180" style=""></iframe>
 
 
 
