@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-07-11T09:33:39.228Z'
+datePublished: '2017-07-11T09:35:27.844Z'
 sourcePath: _posts/2016-06-09-into-the-world.md
 inFeed: false
 hasPage: true
@@ -9,7 +9,7 @@ author:
 via:
   name: SO STUDIOS
   url: 'https://www.sostudiosfilm.com/'
-dateModified: '2017-07-11T09:33:38.398Z'
+dateModified: '2017-07-11T09:35:26.986Z'
 title: ABOUT THE FILM
 id: 96057193-5915-4516-93e2-6a55754396e4
 publisher:
@@ -40,7 +40,7 @@ Escape the ordinary and find your own little world.
 
 [READ MORE][2]
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkM2OgyAURvc-BWHVZoJYTP3pqC8ymQWCWloU4sU0znTefWhsGuMMCxacw5f73aIeaRUUf28Qo7IOcZgHgWAUJabU8q7hkoWdMZ1uPJFKcKfMEArTPym9AOUS6nmRwgvgqqBLmo9VAyChOUCJVxYO0OOAm3VTYqnAaj6fam3E9Ykkd5xwSVoz9tyVuNWTkhvm_5jJM9X7SYgz9l9Ors1cYnJOSPsWO3L4IrnZiEKrZvBBghM71YTFLEvTYxbFeZKwKNrYoI138yw9HNMkZuzR19d87bBa9N2qLyrRTQ3S3ML14_2OPj73oZ3gvPv-2b8Hr739AqfqhIY" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkM2OgyAURvc-BWHVZoJYTP3pqC8ymQWCWloU4sU0znTefWhsGuMMCxacw5f73aIeaRUUf28Qo7IOcZgHgWAUJabU8q7hkoWdMZ1uPJFKcKfMEArTPym9AOUS6nmRwgvgqqBLmo9VAyChOUCJVxYO0OOAm3VTYqnAaj6fam3E9Ykkd5xwSVoz9tyVuNWTkhvm_5jJM9X7SYgz9l9Ors1cYnJOSPsWO3L4IrnZiEKrZvBBghM71YTFLEvTYxbFeZKwKNrYoI138yw9HNMkZuzR19d87bBa9N2qLyrRTQ3S3ML14_2OPj73oZ3gvPv-2b8Hr739AqfqhIY" height="200" style=""></iframe>
 
 
 
