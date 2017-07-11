@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-07-11T09:39:58.049Z'
+datePublished: '2017-07-11T09:40:03.335Z'
 sourcePath: _posts/2016-07-11-sparkles-featured-sparkles.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-07-11T09:39:57.112Z'
+dateModified: '2017-07-11T09:40:01.598Z'
 title: ' Featured Stories'
 id: 02981f28-2246-4346-9312-a927e2de147c
 publisher: {}
