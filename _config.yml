@@ -1,20 +1,20 @@
-typography_spectrum: 0.27546266047284007
+layout_spectrum: 0.5665263181712737
+typography_spectrum: 0.9934243587293837
 color:
-  saturation: 0.8387097
-  brandStrength: 0.04659498
-  rhythmicContrast: 0.5089605
+  saturation: 0.999233787870219
+  brandStrength: 0.56343575791714
+  rhythmicContrast: 0.8905220201000166
   brandColors:
     - '#130F0E'
     - '#FBF9FC'
     - '#1C3843'
     - '#696F6F'
     - '#A49A91'
-  lightness: 1
+  lightness: 0.7834297705987597
 opengraph:
   type: video.movie
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/20012ee6-e2e3-4c86-904a-55ee184081c1.jpg
-layout_spectrum: 0.629418371245265
 analytics:
   google: UA-37252801-8
 author:
@@ -53,4 +53,57 @@ collections:
     permalink:
       path: '/:title/'
 title: ''
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/933ca4e8-d926-4eb1-9bcc-356f5a23e004.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/933ca4e8-d926-4eb1-9bcc-356f5a23e004.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd2b8c8e-a903-4390-a67b-41f0ac3fe620.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd2b8c8e-a903-4390-a67b-41f0ac3fe620.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: ''
+purpose: []
+logo: null
+github: true
+url: 'http://itwstories.com/'
