@@ -29,15 +29,15 @@ isBasedOnUrl: 'https://www.instagram.com/p/BGXvz35pZFe/?tagged=itwstories'
 title: >-
   I asked Finn to help me take a few test shots for my new camera (a Fuji that's
   perfect for toting around). Thanks buddy. That's awesome.
-datePublished: '2017-10-15T15:14:19.535Z'
-dateModified: '2017-10-15T15:14:18.869Z'
+datePublished: '2017-10-15T15:14:30.350Z'
+dateModified: '2017-10-15T15:14:29.023Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
-datePublishedOriginal: '2017-10-15T15:14:19.535Z'
 sourcePath: >-
   _posts/2017-10-15-i-asked-finn-to-help-me-take-a-few-test-shots-for-my-new-cam.md
+starred: false
+datePublishedOriginal: '2017-10-15T15:14:19.535Z'
 _type: Photograph
 _context: 'http://schema.org'
 
