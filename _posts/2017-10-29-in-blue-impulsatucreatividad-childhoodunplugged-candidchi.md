@@ -26,18 +26,15 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BHEz9fgjy86/?tagged=itwstories'
-title: >-
-  In blue #impulsatucreatividad #childhoodunplugged #candidchildhood
-  #clickinmoms #hallazgosemanal #conmiradademadre #liveauthentic #photooftheday
-  #itwstories
-datePublished: '2017-10-29T08:41:56.468Z'
-dateModified: '2017-10-29T08:41:49.672Z'
-datePublishedOriginal: '2017-10-29T08:41:56.468Z'
+title: 'In blue '
+datePublished: '2017-10-29T08:42:51.802Z'
+dateModified: '2017-10-29T08:42:50.993Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-10-29-in-blue-impulsatucreatividad-childhoodunplugged-candidchi.md
+starred: false
+datePublishedOriginal: '2017-10-29T08:41:56.468Z'
 _type: MediaObject
 _context: 'http://schema.org'
 
