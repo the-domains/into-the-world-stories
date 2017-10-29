@@ -32,17 +32,17 @@ title: >-
   volar. Mis yellow dragons. About es centrarse en algo, conocerlo en
   profundidad, es decir, ENFOCAR. Enfocar en ellos, en sus historias, en su
   mundo de fantasía.
-datePublished: '2017-10-15T15:18:52.433Z'
-dateModified: '2017-10-15T15:18:51.331Z'
+datePublished: '2017-10-29T08:53:47.704Z'
+dateModified: '2017-10-29T08:53:46.917Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
-datePublishedOriginal: '2017-10-15T15:18:52.433Z'
 sourcePath: >-
   _posts/2017-10-15-os-voy-a-contar-como-surgio-mi-nombre-a-traves-de-ellos-des.md
+starred: false
+datePublishedOriginal: '2017-10-15T15:18:52.433Z'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![](https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e35/13696874_1797534027132723_891465177_n.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/da4d7e944a45e969deb91e32bc49f8f7/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Ft51.2885-15%2Fe35%2F13696874_1797534027132723_891465177_n.jpg)
