@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BHEz9fgjy86/?tagged=itwstories'
 title: 'In blue '
-datePublished: '2017-10-29T08:42:51.802Z'
-dateModified: '2017-10-29T08:42:50.993Z'
+datePublished: '2017-10-29T08:43:15.695Z'
+dateModified: '2017-10-29T08:43:15.053Z'
 description: ''
 via: {}
 inFeed: true
