@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BLS1t7ShOkS/?tagged=itwstories'
 title: 'xx ✨ '
-datePublished: '2017-10-30T19:08:38.119Z'
-dateModified: '2017-10-30T19:08:37.077Z'
+datePublished: '2017-10-30T19:13:53.133Z'
+dateModified: '2017-10-30T19:13:49.183Z'
 description: ''
 via: {}
 inFeed: true
+sourcePath: _posts/2017-10-30-xx-sparkles.md
 starred: false
 datePublishedOriginal: '2017-10-30T19:08:38.119Z'
-sourcePath: _posts/2017-10-30-xx-sparkles.md
 _type: Photograph
 _context: 'http://schema.org'
 
