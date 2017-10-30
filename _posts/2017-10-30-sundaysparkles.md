@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BLWfC3ZhzqQ/?tagged=itwstories'
 title: sun.day✨
-datePublished: '2017-10-30T19:10:30.004Z'
-dateModified: '2017-10-30T19:10:29.252Z'
+datePublished: '2017-10-30T19:11:20.857Z'
+dateModified: '2017-10-30T19:11:20.143Z'
 description: ''
 via: {}
 inFeed: true
+sourcePath: _posts/2017-10-30-sundaysparkles.md
 starred: false
 datePublishedOriginal: '2017-10-30T19:10:30.004Z'
-sourcePath: _posts/2017-10-30-sundaysparkles.md
 _type: Photograph
 _context: 'http://schema.org'
 
