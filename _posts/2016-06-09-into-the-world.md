@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-11-13T11:03:55.511Z'
+datePublished: '2017-11-13T13:11:59.391Z'
 sourcePath: _posts/2016-06-09-into-the-world.md
 inFeed: false
 hasPage: true
@@ -9,7 +9,7 @@ author:
 via:
   name: SO STUDIOS
   url: 'https://www.sostudiosfilm.com/'
-dateModified: '2017-11-13T11:03:54.680Z'
+dateModified: '2017-11-13T13:11:51.863Z'
 title: ABOUT THE FILM
 id: 96057193-5915-4516-93e2-6a55754396e4
 publisher:
