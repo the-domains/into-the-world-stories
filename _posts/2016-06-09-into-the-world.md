@@ -1,18 +1,20 @@
 ---
-datePublished: '2017-11-13T11:02:03.074Z'
+datePublished: '2017-11-13T11:03:55.511Z'
 sourcePath: _posts/2016-06-09-into-the-world.md
 inFeed: false
 hasPage: true
 author:
   - url: 'https://www.instagram.com/itwfilm/'
     name: INTO THE WORLD Film
-via: {}
-dateModified: '2017-11-13T11:02:00.766Z'
-title: Shunsuke Okubo
+via:
+  name: SO STUDIOS
+  url: 'https://www.sostudiosfilm.com/'
+dateModified: '2017-11-13T11:03:54.680Z'
+title: ABOUT THE FILM
 id: 96057193-5915-4516-93e2-6a55754396e4
 publisher:
-  name: SO STUDIOS
-  url: 'hhtps://www.sostudiosfilm.com'
+  name: Instagram
+  url: 'https://www.instagram.com'
 description: >-
   Have you ever tried to run away from growing up? Into the World is the story
   about the boys who do not want to grow up, from visionary filmmaker Shunsuke
@@ -23,7 +25,6 @@ url: about-the-film/index.html
 _type: MediaObject
 
 ---
-![From the visionaly filmmmaker of 20 Seconds of Courage](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5bc6d1b-d84b-49f6-a1ec-e89b1e8f7e91.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe2f5a91-0bc1-40cd-8dec-263909084e7a.jpg)
 
 Have you ever tried to run away from growing up? Into the World is the story about the boys who do not want to grow up, from visionary filmmaker [Shunsuke Okubo][0] ("20 Seconds of Courage")
