@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BJRLrOzB26z/?tagged=itwstories'
 title: Don't forget to dream.
-datePublished: '2017-11-16T10:51:36.897Z'
-dateModified: '2017-11-16T10:51:36.072Z'
+datePublished: '2017-11-19T01:51:59.103Z'
+dateModified: '2017-11-19T01:51:57.412Z'
 description: ''
 via: {}
 inFeed: true
+sourcePath: _posts/2017-11-16-dont-forget-to-dream.md
 starred: false
 datePublishedOriginal: '2017-11-16T10:51:36.897Z'
-sourcePath: _posts/2017-11-16-dont-forget-to-dream.md
 _type: Photograph
 _context: 'http://schema.org'
 
