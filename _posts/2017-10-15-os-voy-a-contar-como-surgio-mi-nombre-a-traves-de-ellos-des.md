@@ -32,8 +32,8 @@ title: >-
   volar. Mis yellow dragons. About es centrarse en algo, conocerlo en
   profundidad, es decir, ENFOCAR. Enfocar en ellos, en sus historias, en su
   mundo de fantasía.
-datePublished: '2017-10-29T08:53:47.704Z'
-dateModified: '2017-10-29T08:53:46.917Z'
+datePublished: '2017-11-19T01:55:12.121Z'
+dateModified: '2017-11-19T01:55:10.995Z'
 description: ''
 via: {}
 inFeed: true
