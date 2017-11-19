@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BQRQP4Ih6bT/?tagged=itwstories'
 title: '"If I go, I''m going on fire."'
-datePublished: '2017-11-19T01:21:00.240Z'
-dateModified: '2017-11-19T01:20:57.686Z'
+datePublished: '2017-11-19T01:21:43.061Z'
+dateModified: '2017-11-19T01:21:41.368Z'
 description: ''
 via: {}
 inFeed: true
+sourcePath: _posts/2017-11-19-if-i-go-im-going-on-fire.md
 starred: false
 datePublishedOriginal: '2017-11-19T01:21:00.240Z'
-sourcePath: _posts/2017-11-19-if-i-go-im-going-on-fire.md
 _type: Photograph
 _context: 'http://schema.org'
 
