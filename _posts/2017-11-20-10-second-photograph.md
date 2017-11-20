@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BIPUB5KhTbf/?tagged=itwstories'
 title: 10 second photograph
-datePublished: '2017-11-20T15:13:55.812Z'
-dateModified: '2017-11-20T15:13:55.006Z'
+datePublished: '2017-11-20T15:15:03.500Z'
+dateModified: '2017-11-20T15:15:02.635Z'
 description: ''
 via: {}
 inFeed: true
+sourcePath: _posts/2017-11-20-10-second-photograph.md
 starred: false
 datePublishedOriginal: '2017-11-20T15:13:55.812Z'
-sourcePath: _posts/2017-11-20-10-second-photograph.md
 _type: MediaObject
 _context: 'http://schema.org'
 
