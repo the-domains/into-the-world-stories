@@ -30,17 +30,17 @@ title: >-
   Sometimes I think this one feels most at home when he's closer to the heavens.
   I fully expect to find him stuck up in a treetop someday. And that will likely
   be okay by him. 
-datePublished: '2018-01-24T10:39:51.722Z'
-dateModified: '2018-01-24T10:39:50.974Z'
+datePublished: '2018-01-24T10:39:57.265Z'
+dateModified: '2018-01-24T10:39:56.493Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
-datePublishedOriginal: '2018-01-24T10:39:51.722Z'
 sourcePath: >-
   _posts/2018-01-24-sometimes-i-think-this-one-feels-most-at-home-when-hes-clos.md
+starred: false
+datePublishedOriginal: '2018-01-24T10:39:51.722Z'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![](https://scontent-iad3-1.cdninstagram.com/vp/43f1efc64a516a4eedaf289793bb8139/5AE257EF/t51.2885-15/e35/13391271_1087682631302839_831346936_n.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1a3fe087cd973deb3cbf7b211f9872b5/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Fvp%2F43f1efc64a516a4eedaf289793bb8139%2F5AE257EF%2Ft51.2885-15%2Fe35%2F13391271_1087682631302839_831346936_n.jpg)
