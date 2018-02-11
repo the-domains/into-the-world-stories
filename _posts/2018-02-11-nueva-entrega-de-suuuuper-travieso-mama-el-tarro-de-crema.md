@@ -29,19 +29,17 @@ isBasedOnUrl: 'https://www.instagram.com/p/BG3m60CNlx0/?tagged=itwstories'
 title: >-
   Nueva entrega de Suuuuper Travieso: "Mamá, el tarro de crema me atacó" (llanto
   preventivo por si cae bronca) "Mom, cream jar attacked me" (crying advance mom
-  anger) #conmiradademadre #superhero #clickinmoms #momswithcameras #momtog
-  #childhoodunplugged #candidchildhood #siblinghoodlove #itwstories #clickinmoms
-  #dailyparenting
-datePublished: '2018-02-11T04:50:14.153Z'
-dateModified: '2018-02-11T04:49:54.771Z'
-datePublishedOriginal: '2018-02-11T04:50:14.153Z'
+  anger) 
+datePublished: '2018-02-11T04:50:27.106Z'
+dateModified: '2018-02-11T04:50:26.026Z'
 description: ''
 via: {}
 inFeed: true
 starred: false
+datePublishedOriginal: '2018-02-11T04:50:25.359Z'
 sourcePath: _posts/2018-02-11-nueva-entrega-de-suuuuper-travieso-mama-el-tarro-de-crema.md
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Nueva entrega de Suuuuper Travieso: "Mamá, el tarro de crema me atacó" (llanto preventivo por si cae bronca) "Mom, cream jar attacked me" (crying advance mom anger) #conmiradademadre #superhero #clickinmoms #momswithcameras #momtog #childhoodunplugged #candidchildhood #siblinghoodlove #itwstories #clickinmoms #dailyparenting](https://scontent-iad3-1.cdninstagram.com/vp/b4c72c29239d14fecd646bd8232aae72/5B07D58C/t51.2885-15/e35/13402298_150277505389590_1179665027_n.jpg)
+![](https://scontent-iad3-1.cdninstagram.com/vp/b4c72c29239d14fecd646bd8232aae72/5B07D58C/t51.2885-15/e35/13402298_150277505389590_1179665027_n.jpg)
